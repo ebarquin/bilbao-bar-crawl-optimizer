@@ -1,0 +1,52 @@
+name: Deploy static demo
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare static site
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p public/data/study-areas public/data/processed
+          cp index.html public/index.html
+          cp -R dist public/dist
+          cp data/study-areas/casco-viejo-bilbao.geojson public/data/study-areas/
+          cp data/processed/venues.geojson public/data/processed/
+          cp data/processed/quality-report.json public/data/processed/
+          cp data/processed/pedestrian-network-report.json public/data/processed/
+          cp data/processed/venue-access.json public/data/processed/
+          cp data/processed/optimization-simulations.json public/data/processed/
+          cp data/processed/optimization-routes.geojson public/data/processed/
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
