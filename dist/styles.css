@@ -264,6 +264,11 @@ body { background: radial-gradient(circle at 78% 0%, #16484d 0, transparent 32re
 .proof-strip strong, .proof-strip small { display: block; }
 .proof-strip strong { color: #fff; font-size: 12px; }
 .proof-strip small { margin-top: 4px; color: #b8c9c7; font-size: 10px; }
+.github-cell { justify-content: center; gap: 8px !important; }
+.github-link { display: inline-flex; align-items: center; gap: 9px; padding: 10px 13px; border-radius: 999px; background: var(--accent); color: #fff; text-decoration: none; transition: .18s ease; }
+.github-link strong { color: #fff; font-size: 11px; }
+.github-link span { color: #fff; font-size: 17px; line-height: 1; }
+.github-link:hover { background: var(--accent-deep); transform: translateY(-1px); }
 @media (max-width: 1250px) {
   .dashboard { grid-template-columns: 280px minmax(440px, 1fr); }
   .results-panel { grid-column: 1 / -1; height: auto; }
