@@ -4,6 +4,8 @@ Investigación reproducible sobre la ruta peatonal necesaria para visitar establ
 
 La aplicación compara varios algoritmos sobre una red peatonal real de OpenStreetMap. No presenta una aproximación como óptimo global: los resultados se describen como la mejor solución encontrada bajo el escenario y los datos disponibles.
 
+La ruta debe visitar los 157 establecimientos del sector. Para la simulación temporal se añade una parada estimada de 15 minutos en cada uno, interpretada como el tiempo de tomar un vino. Esa parada es un parámetro del experimento: no representa horarios ni tiempos observados y no modifica la geometría de la animación.
+
 ## Qué incluye
 
 - 157 establecimientos dentro del perímetro definitivo de Siete Calles, Plaza Nueva, El Arenal y calles intermedias.
