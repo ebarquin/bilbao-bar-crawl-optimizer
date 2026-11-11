@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-11-11T15:56:02.465729+00:00",
+  "scenario": "open_fixed_start_free_end",
+  "summary": [
+    {
+      "algorithm": "nearest_neighbor",
+      "runs": 1,
+      "best_distance_m": 8906.7,
+      "best_walking_time_min": 118.76,
+      "mean_distance_m": 8906.7,
+      "improvement_vs_random_mean_pct": 83.92,
+      "improvement_vs_random_best_pct": 83.33
+    },
+    {
+      "algorithm": "nearest_neighbor_multi_start",
+      "runs": 1,
+      "best_distance_m": 8792.38,
+      "best_walking_time_min": 117.23,
+      "mean_distance_m": 8792.38,
+      "improvement_vs_random_mean_pct": 84.13,
+      "improvement_vs_random_best_pct": 83.55
+    },
+    {
+      "algorithm": "or_tools",
+      "runs": 1,
+      "best_distance_m": 7657.37,
+      "best_walking_time_min": 102.1,
+      "mean_distance_m": 7657.37,
+      "improvement_vs_random_mean_pct": 86.18,
+      "improvement_vs_random_best_pct": 85.67
+    },
+    {
+      "algorithm": "random",
+      "runs": 10,
+      "best_distance_m": 53434.38,
+      "best_walking_time_min": 712.46,
+      "mean_distance_m": 55389.87,
+      "improvement_vs_random_mean_pct": 3.53,
+      "improvement_vs_random_best_pct": 0.0
+    },
+    {
+      "algorithm": "two_opt",
+      "runs": 1,
+      "best_distance_m": 8131.91,
+      "best_walking_time_min": 108.43,
+      "mean_distance_m": 8131.91,
+      "improvement_vs_random_mean_pct": 85.32,
+      "improvement_vs_random_best_pct": 84.78
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-11-11T15:25:47.307272+00:00",
+  "source_file": "data/raw/venues-osm-map-editado-5.json",
+  "source_captured_at": "2026-11-11T15:23:51.253398+00:00",
+  "query_scope": [
+    "bar",
+    "pub",
+    "cafe",
+    "biergarten"
+  ],
+  "total_elements": 157,
+  "exported_features": 157,
+  "skipped_elements": 0,
+  "category_counts": {
+    "pub": 105,
+    "cafetería": 36,
+    "bar": 16
+  },
+  "duplicate_candidates": [],
+  "manual_validation_required": true,
+  "limitations": [
+    "OSM coverage and names can be incomplete or stale.",
+    "Ways and relations use their OSM center, not necessarily an entrance.",
+    "Restaurants and other amenities are not included in this first query."
+  ]
+}

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#102f35" />
+    <meta name="description" content="Investigación reproducible sobre la ruta peatonal más corta para visitar los bares del Casco Viejo de Bilbao." />
+    <meta property="og:title" content="Bilbao Bar Crawl Optimizer" />
+    <meta property="og:description" content="157 establecimientos, red peatonal real y comparación de algoritmos de optimización." />
+    <meta property="og:type" content="website" />
+    <title>Bilbao Bar Crawl Optimizer — Ruta peatonal</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+    <link rel="stylesheet" href="./styles.css?v=20261111-design-21" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="intro">
+        <div class="intro-topline">
+          <p class="eyebrow">BILBAO · CASCO VIEJO · INVESTIGACIÓN ABIERTA</p>
+          <div class="status-row"><span class="status-dot"></span><span id="data-status">Cargando datos locales…</span></div>
+        </div>
+        <div class="brand-lockup">
+          <div class="brand-symbol"><img src="./assets/route-mark.svg" alt="" /></div>
+          <div class="brand-name"><span>Bar Crawl</span><em>Optimizer</em></div>
+        </div>
+        <div class="research-copy">
+          <span class="research-label">EXPERIMENTO DE OPTIMIZACIÓN DE RUTAS</span>
+          <h1>¿Cuál es la ruta más rápida para visitar<br class="question-break" />todos los bares del Casco Viejo de Bilbao?</h1>
+          <p class="lede">Rutas peatonales reales · Comparativa de algoritmos · Simulación y animación</p>
+        </div>
+        <img class="intro-skyline" src="./assets/bilbao-skyline.svg" alt="" aria-hidden="true" />
+      </section>
+      <section class="dashboard">
+        <aside class="panel study-panel">
+          <div class="panel-block hero-stat"><span class="label">ESTABLECIMIENTOS</span><strong id="venue-count">—</strong><span id="scope-label" class="hero-scope">Siete Calles · Plaza Nueva · Arenal</span><div class="hero-insight"><span class="label">LA PREGUNTA</span><p>¿Cuánto tardamos en visitar todos los bares caminando por calles reales?</p></div></div>
+          <div class="panel-block"><span class="label">QUÉ HAY DENTRO</span><div id="category-list" class="category-list"></div></div>
+          <div class="panel-block"><span class="label">PERÍMETRO DE ESTUDIO</span><p>El estudio se limita al área incluida dentro del perímetro señalado.</p></div>
+          <div class="panel-block"><div class="section-heading"><span class="label">DATOS DEL EXPERIMENTO</span><span class="section-badge">OSM · LOCAL</span></div><div id="quality-list" class="quality-list"></div><p class="muted">Datos reales de OpenStreetMap utilizados para probar y comparar algoritmos. No es un inventario exhaustivo.</p></div>
+          <div class="panel-block"><div class="section-heading"><span class="label">RED PEATONAL</span><span class="section-badge network-badge">CONECTADA</span></div><div id="network-list" class="quality-list"></div><p class="muted">La red OSM se usa para reconstruir recorridos que siguen las calles.</p></div>
+        </aside>
+        <section class="map-wrap">
+          <div class="map-header"><span>MAPA DE LA INVESTIGACIÓN</span><strong>157 puntos · red peatonal real</strong></div>
+          <div class="map-animation-controls">
+            <div class="animation-heading"><span class="label">ANIMAR RECORRIDO</span><span class="animation-route-label">Ruta peatonal</span></div>
+            <input id="animation-timeline" class="animation-timeline" type="range" min="0" max="1000" value="0" step="1" aria-label="Posición en el recorrido" />
+            <div class="timeline-labels"><span>Inicio</span><span>Fin del recorrido</span></div>
+            <div class="animation-actions"><button id="play-animation" class="button">Reproducir</button><button id="pause-animation" class="button" disabled>Pausar</button><button id="reset-animation" class="button">Reiniciar</button><label class="speed-control" for="animation-speed">Velocidad <select id="animation-speed"><option value="0.5">0,5×</option><option value="1" selected>1×</option><option value="2">2×</option><option value="4">4×</option></select></label></div>
+            <div id="animation-status" class="animation-status">Preparado para animar</div>
+          </div>
+          <div id="map" aria-label="Mapa de establecimientos de Bilbao"></div>
+          <div class="map-legend"><span class="legend-dot"></span> establecimientos <span class="legend-line"></span> perímetro de estudio</div>
+        </section>
+        <aside class="panel results-panel">
+          <div class="panel-block results-intro"><div class="section-heading"><span class="label">COMPARAR RECORRIDOS</span><span class="section-badge">RESULTADOS</span></div><h2>¿Qué algoritmo encuentra la mejor ruta?</h2><p>Selecciona un método para ver su resultado y animar el recorrido sobre la red peatonal real.</p></div>
+          <div class="panel-block"><select id="algorithm-select" class="algorithm-select" aria-label="Seleccionar algoritmo"><option value="all">Todos los algoritmos</option></select><div id="simulation-list" class="quality-list"></div><p class="muted">Tiempo total = caminar + tiempo fijo por establecimiento.</p></div>
+          <div class="panel-block results-note"><span class="label">LECTURA DEL RESULTADO</span><p>La mejor solución encontrada no equivale necesariamente al óptimo global. Los tiempos son estimaciones reproducibles.</p></div>
+        </aside>
+      </section>
+      <footer class="proof-strip">
+        <div><span class="proof-icon">⌖</span><span><strong>Rutas peatonales reales</strong><small>Calles, plazas y conexiones</small></span></div>
+        <div><span class="proof-icon">⌁</span><span><strong>Algoritmos comparados</strong><small>Nearest Neighbor · 2-opt · OR-Tools</small></span></div>
+        <div><span class="proof-icon">◇</span><span><strong>Datos abiertos</strong><small>OpenStreetMap · reproducible</small></span></div>
+        <div><span class="proof-icon">↗</span><span><strong>Código y datos versionados</strong><small>Preparado para GitHub</small></span></div>
+      </footer>
+    </main>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <script src="./app.js?v=20261111-design-21" type="module"></script>
+  </body>
+</html>

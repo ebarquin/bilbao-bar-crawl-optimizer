@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-11-11T13:46:40.652890+00:00",
+  "source_file": "data/raw/overpass-casco-viejo-bilbao.json",
+  "source_captured_at": "2026-11-11T13:22:53.522822+00:00",
+  "query_scope": [
+    "bar",
+    "pub",
+    "cafe",
+    "biergarten"
+  ],
+  "total_elements": 159,
+  "exported_features": 159,
+  "skipped_elements": 0,
+  "category_counts": {
+    "cafetería": 36,
+    "pub": 104,
+    "bar": 19
+  },
+  "duplicate_candidates": [],
+  "manual_validation_required": true,
+  "limitations": [
+    "OSM coverage and names can be incomplete or stale.",
+    "Ways and relations use their OSM center, not necessarily an entrance.",
+    "Restaurants and other amenities are not included in this first query."
+  ]
+}

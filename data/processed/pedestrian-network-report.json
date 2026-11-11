@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-11-11T15:55:47.155602+00:00",
+  "study_area": "data/study-areas/casco-viejo-bilbao.geojson",
+  "graph_file": "data/processed/pedestrian-network.graphml",
+  "network_type": "walk",
+  "source": "osm-map",
+  "directed_graph": true,
+  "margin_meters": 400,
+  "nodes": 5258,
+  "edges": 14526,
+  "weakly_connected_components": 22,
+  "venue_count": 157,
+  "virtual_access_nodes": 157,
+  "venue_access_model": "one virtual graph node per venue projected onto the nearest pedestrian edge",
+  "manual_access_overrides": [
+    "node/2852257119"
+  ],
+  "venues_outside_largest_weak_component": [],
+  "route_tests": 4,
+  "route_results": [
+    {
+      "route_id": "sample-1",
+      "origin": "node/10895947679",
+      "destination": "node/10895986329",
+      "length_m": 204.52,
+      "nodes": 17
+    },
+    {
+      "route_id": "sample-2",
+      "origin": "node/10895986329",
+      "destination": "node/10896547588",
+      "length_m": 506.44,
+      "nodes": 40
+    },
+    {
+      "route_id": "sample-3",
+      "origin": "node/10896547588",
+      "destination": "node/11118554446",
+      "length_m": 143.66,
+      "nodes": 16
+    },
+    {
+      "route_id": "sample-4",
+      "origin": "node/2852257119",
+      "destination": "node/10895947679",
+      "length_m": 371.55,
+      "nodes": 18
+    }
+  ],
+  "route_failures": [],
+  "limitations": [
+    "Venue points for ways/relations originate from OSM centers, then receive independent virtual access nodes on the pedestrian network.",
+    "A successful graph path confirms network connectivity, not physical entrance accuracy.",
+    "OSM pedestrian tags may be incomplete or stale and require manual review."
+  ]
+}

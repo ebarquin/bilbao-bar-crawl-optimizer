@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-11-11T14:45:38.471619+00:00",
+  "venues": 159,
+  "unique_access_nodes": 121,
+  "same_node_groups": [
+    [
+      "node/12600247646",
+      "node/13077940970",
+      "node/4713230563",
+      "node/4713230565",
+      "node/4713230566"
+    ],
+    [
+      "node/13075717133",
+      "node/4711965391",
+      "node/4713230564"
+    ],
+    [
+      "node/13077920608",
+      "node/4711962387",
+      "node/4711962388",
+      "node/4711965389"
+    ],
+    [
+      "node/13078261056",
+      "node/2869902102",
+      "node/3528886699"
+    ],
+    [
+      "node/13081505164",
+      "node/4406048232"
+    ],
+    [
+      "node/13084165627",
+      "node/4252813890"
+    ],
+    [
+      "node/13094056972",
+      "node/4708519051"
+    ],
+    [
+      "node/13094076746",
+      "node/4709757485"
+    ],
+    [
+      "node/13250610370",
+      "node/4713230568",
+      "node/4713230569",
+      "node/4713230570"
+    ],
+    [
+      "node/2810678501",
+      "node/3213350166"
+    ],
+    [
+      "node/2869902103",
+      "node/3213350169"
+    ],
+    [
+      "node/3103245182",
+      "node/3103245199",
+      "node/5055531282"
+    ],
+    [
+      "node/3103245185",
+      "node/3213350194",
+      "node/4688291794",
+      "node/5204339221"
+    ],
+    [
+      "node/3103245188",
+      "node/3103245202"
+    ],
+    [
+      "node/3213350164",
+      "node/3213350170"
+    ],
+    [
+      "node/3213350187",
+      "node/3213350189"
+    ],
+    [
+      "node/3213350190",
+      "node/3213350191"
+    ],
+    [
+      "node/3541864609",
+      "node/4738054188"
+    ],
+    [
+      "node/4708209444",
+      "node/4708209455",
+      "node/4708209456"
+    ],
+    [
+      "node/4708209457",
+      "node/4708209458"
+    ],
+    [
+      "node/4708519024",
+      "node/4708519026"
+    ],
+    [
+      "node/4713230560",
+      "node/4713230561"
+    ],
+    [
+      "node/4713230567",
+      "node/4713230572",
+      "node/4713230573"
+    ],
+    [
+      "node/5055529919",
+      "node/5493980622"
+    ]
+  ],
+  "ordered_pairs": 25281,
+  "reachable_ordered_pairs": 25281,
+  "unreachable_ordered_pairs": 0,
+  "unreachable_pairs": [],
+  "asymmetric_unordered_pairs": 0,
+  "asymmetric_examples": [],
+  "walking_speed_kmh": 4.5,
+  "route_reconstruction": "Each matrix cell stores the ordered graph node sequence; edge geometries remain in the cached GraphML graph."
+}

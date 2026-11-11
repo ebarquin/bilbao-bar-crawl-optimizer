@@ -1,0 +1,4317 @@
+{
+  "type": "FeatureCollection",
+  "name": "bilbao-venues",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2810678501",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2810678501,
+        "name": "Cafe bar Bilbao",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "amenity": "pub",
+          "check_date": "2026-08-01",
+          "food": "yes",
+          "name": "Cafe bar Bilbao",
+          "outdoor_seating": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9225213,
+          43.2587351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812432422",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2812432422,
+        "name": "Aitaren",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Aitaren",
+          "note": "Está cerrado, pero lo van ha reabrir próximamente otros dueños. Se llamará Aitaren",
+          "proposed:name": "Aitaren"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9239866,
+          43.2593357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813304628",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2813304628,
+        "name": "Bertiz",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "16",
+          "addr:postcode": "48005",
+          "addr:street": "Posta kalea",
+          "amenity": "cafe",
+          "contact:phone": "+34 944 16 18 06",
+          "name": "Bertiz"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9236134,
+          43.2581756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813304629",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2813304629,
+        "name": "Brasil",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-08-16",
+          "name": "Brasil"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9236084,
+          43.2579475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813304630",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2813304630,
+        "name": "Bizubi",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2023-09-18",
+          "name": "Bizubi",
+          "outdoor_seating": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9240219,
+          43.2576146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813304639",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2813304639,
+        "name": "Kapikua",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "name": "Kapikua"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9236143,
+          43.2585868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813304647",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2813304647,
+        "name": "Lago",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-08-16",
+          "name": "Lago"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.923437,
+          43.2582622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813304664",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2813304664,
+        "name": "Syra Coffee",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Syra Coffee"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9236195,
+          43.2584471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813314927",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2813314927,
+        "name": "Rotterdam",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2024-12-28",
+          "name": "Rotterdam"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9244925,
+          43.2577291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813314928",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2813314928,
+        "name": "Txakurto",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:street": "Txakur kalea",
+          "alt_name": "Txakurtxo",
+          "amenity": "pub",
+          "name": "Txakurto"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9247843,
+          43.257708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2852247331",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2852247331,
+        "name": "Geltoki",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "check_date": "2025-08-18",
+          "name": "Geltoki"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9215305,
+          43.2586237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2852257119",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2852257119,
+        "name": "Fermín",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:street": "Iturribide kalea",
+          "amenity": "pub",
+          "name": "Fermín"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9212698,
+          43.2581092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2852257121",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2852257121,
+        "name": "Gayarre",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "amenity": "pub",
+          "name": "Gayarre"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9211149,
+          43.2581158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2869902102",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2869902102,
+        "name": "Bacaicoa",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "2",
+          "addr:postcode": "48006",
+          "addr:street": "Miguel de Unamuno plaza",
+          "amenity": "pub",
+          "check_date": "2026-07-20",
+          "cuisine": "local",
+          "name": "Bacaicoa",
+          "opening_hours": "Mo-Sa 11:00-22:30; Su 11:00-15:30",
+          "website": "https://www.bacaicoabar.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9212089,
+          43.258503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2869902103",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2869902103,
+        "name": "Sorginzulo",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "12 bajo",
+          "addr:street": "Plaza Barria",
+          "amenity": "pub",
+          "level": "0",
+          "name": "Sorginzulo",
+          "opening_hours": "Mo-Sa 09:30-22:30; Su 10:00-15:30",
+          "outdoor_seating": "yes",
+          "phone": "+34 944 15 05 64",
+          "website": "https://www.sorginzulo.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9222595,
+          43.2593598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101380114",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3101380114,
+        "name": "Claudio",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "19",
+          "addr:postcode": "48005",
+          "addr:street": "Itxaropen kalea",
+          "amenity": "pub",
+          "cuisine": "spanish",
+          "name": "Claudio",
+          "name:en": "Jamón Claudio",
+          "opening_hours": "Mo-Fr 10:00-13:30, 17:00-21:00; Sa 10:00-14:00",
+          "phone": "+34944790011",
+          "website": "https://www.claudiojamones.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9225606,
+          43.2614421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3101380121",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3101380121,
+        "name": "La cañita",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "name": "La cañita"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224336,
+          43.2608487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245158",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245158,
+        "name": "Ocariz",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "name": "Ocariz"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9222274,
+          43.2607558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245159",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245159,
+        "name": "Baste",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Baste",
+          "opening_hours": "Tu-Su 09:00-00:00",
+          "phone": "+34 944 15 08 55"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9208197,
+          43.2579835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245161",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245161,
+        "name": "Melchor",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "amenity": "cafe",
+          "name": "Melchor"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9220418,
+          43.2597528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245172",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245172,
+        "name": "Hator",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "cuisine": "kebab",
+          "name": "Hator"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9225576,
+          43.2619463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245182",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245182,
+        "name": "Lau Anai",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Lau Anai"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9214957,
+          43.2579955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245185",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245185,
+        "name": "Los Caracoles",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Los Caracoles"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9220225,
+          43.2590218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245188",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245188,
+        "name": "El Ciervo",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "El Ciervo"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9220002,
+          43.2596476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245199",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245199,
+        "name": "Sugoiberria",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Sugoiberria"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9216104,
+          43.2578501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245202",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245202,
+        "name": "Ascao",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Ascao"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9220246,
+          43.259701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245208",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245208,
+        "name": "Yamike!",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Yamike!"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9221802,
+          43.2602336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3103245211",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3103245211,
+        "name": "Kantabrico",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Kantabrico"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223667,
+          43.2612933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350161",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350161,
+        "name": "Argoitia",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "language:eu": "yes",
+          "name": "Argoitia"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9228587,
+          43.2594282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350162",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350162,
+        "name": "Charly",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Charly"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223358,
+          43.258827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350163",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350163,
+        "name": "Coffee Break",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "brand": "Coffee Break",
+          "cuisine": "coffee_shop",
+          "name": "Coffee Break",
+          "takeaway": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.922272,
+          43.2592767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350164",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350164,
+        "name": "Ekain",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "12",
+          "addr:street": "Plaza Barria",
+          "amenity": "pub",
+          "name": "Ekain",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.922382,
+          43.2593874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350166",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350166,
+        "name": "Ereka",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Ereka"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9225953,
+          43.2587339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350169",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350169,
+        "name": "Gure Toki",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "12",
+          "addr:street": "Plaza Barria",
+          "amenity": "pub",
+          "cuisine": "spanish",
+          "name": "Gure Toki",
+          "opening_hours": "Mo, Th-Sa 10:00-23:00; Tu 09:00-23:00; Su 10:00-16:00",
+          "phone": "+34 944158037",
+          "website": "http://www.guretoki.com/",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223102,
+          43.2593874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350170",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350170,
+        "name": "Inma",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Inma"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224509,
+          43.2593939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350171",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350171,
+        "name": "Jamonería Jam",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Jamonería Jam",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9230524,
+          43.2590538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350187",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350187,
+        "name": "Plaza Nueva",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "cuisine": "kebab",
+          "name": "Plaza Nueva",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223129,
+          43.2589791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350189",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350189,
+        "name": "Txoko Txinbo",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Txoko Txinbo"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223064,
+          43.2590281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350190",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350190,
+        "name": "Urdiña",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Urdiña",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9227237,
+          43.2587491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350191",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350191,
+        "name": "Volapié",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "name": "Volapié"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9227912,
+          43.2587556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350193",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350193,
+        "name": "Zaharra",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Zaharra",
+          "opening_hours": "Mo-Th 08:00-22:00; Sa 09:00-23:00; Su 09:00-22:00; Fr off",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9230938,
+          43.2588492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350194",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350194,
+        "name": "Zezen Gorri",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Zezen Gorri"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9222884,
+          43.2591541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3213350195",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3213350195,
+        "name": "Zuga",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "5",
+          "addr:street": "Plaza Barria",
+          "amenity": "pub",
+          "check_date": "2024-02-12",
+          "name": "Zuga",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9229632,
+          43.258773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3264818361",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3264818361,
+        "name": "Opila",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "spanish",
+          "diet:vegetarian": "yes",
+          "name": "Opila",
+          "opening_hours": "PH,Mo-Su 08:00-22:00",
+          "outdoor_seating": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9227272,
+          43.2625922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3528886699",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3528886699,
+        "name": "La Roda",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "2",
+          "addr:postcode": "48006",
+          "addr:street": "Miguel de Unamuno plaza",
+          "amenity": "pub",
+          "name": "La Roda"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9212327,
+          43.2584546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3528886700",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3528886700,
+        "name": "The Beetle Bar",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "3",
+          "addr:postcode": "48006",
+          "addr:street": "Miguel de Unamuno plaza",
+          "amenity": "pub",
+          "name": "The Beetle Bar",
+          "opening_hours": "Mo-Fr 09:00-23:00; Sa, Su 09:30-00:00",
+          "phone": "+34 944 00 98 72"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9212823,
+          43.2582593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3768267225",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3768267225,
+        "name": "Soiz 3",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Soiz 3"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9216448,
+          43.2577978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4040570090",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4040570090,
+        "name": "El Kiosko",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "air_conditioning": "no",
+          "amenity": "bar",
+          "check_date": "2024-12-28",
+          "indoor_seating": "no",
+          "name": "El Kiosko",
+          "outdoor_seating": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "smoking": "no",
+          "wheelchair": "no"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9239653,
+          43.2604267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4252813890",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4252813890,
+        "name": "Isipil",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-08-20",
+          "name": "Isipil"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9240993,
+          43.2568153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4378438300",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4378438300,
+        "name": "Taberna Basaras",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:street": "Pilota kalea",
+          "amenity": "bar",
+          "check_date": "2026-06-27",
+          "name": "Taberna Basaras"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9256809,
+          43.2571391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4406048232",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4406048232,
+        "name": "Café 91",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Café 91"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9243464,
+          43.2570208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4688243610",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4688243610,
+        "name": "Sarkue",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "9",
+          "addr:postcode": "48005",
+          "addr:street": "Dendarikale kalea",
+          "amenity": "bar",
+          "check_date": "2025-08-20",
+          "contact:facebook": "https://www.facebook.com/TabernaSARKUE",
+          "name": "Sarkue",
+          "opening_hours": "Su 11:00-16:00; Mo-Sa 08:45-22:30",
+          "phone": "+34946568077"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9239809,
+          43.2561586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4688291794",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4688291794,
+        "name": "Negresko",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "10",
+          "addr:postcode": "48005",
+          "addr:street": "Plaza Barria",
+          "amenity": "bar",
+          "description": "Floor 0",
+          "name": "Negresko",
+          "opening_hours": "Mo, Tu, Th-Su 11:00-23:00",
+          "phone": "+34 687 57 28 19",
+          "wheelchair": "no"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223191,
+          43.2591192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4688363990",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4688363990,
+        "name": "Gatz",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "10",
+          "addr:postcode": "48005",
+          "addr:street": "Andra Maria kalea",
+          "amenity": "pub",
+          "check_date:opening_hours": "2026-06-22",
+          "cuisine": "spanish",
+          "name": "Gatz",
+          "opening_hours": "Mo-Th 12:30-23:00; Fr-Sa 12:30-00:00; Su 12:30-16:00",
+          "opening_hours:signed": "no",
+          "phone": "+34944154861",
+          "website": "https://bargatz.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.926013,
+          43.2581666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701258403",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701258403,
+        "name": "S5",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "amenity": "pub",
+          "name": "S5",
+          "old_name": "Atxilipu"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9228197,
+          43.2628634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701258405",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701258405,
+        "name": "Arrantiano",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "diet:vegetarian": "no",
+          "name": "Arrantiano"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9226622,
+          43.2623647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701258409",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701258409,
+        "name": "Dupla",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:floor": "0",
+          "air_conditioning": "yes",
+          "amenity": "cafe",
+          "brand": "Dupla",
+          "brand:wikidata": "Q102311169",
+          "changing_table": "yes",
+          "check_date": "2026-09-24",
+          "check_date:opening_hours": "2026-09-24",
+          "diet:vegetarian": "no",
+          "level": "0",
+          "name": "Dupla",
+          "opening_hours": "Mo-Th 08:30-16:00; Fr-Su 08:30-18:00",
+          "outdoor_seating": "yes",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "bakery",
+          "source": "survey",
+          "toilets": "yes",
+          "toilets:menstrual_products": "no",
+          "toilets:wheelchair": "yes",
+          "website": "https://duplabilbao.com",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.922798,
+          43.2621676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701494365",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701494365,
+        "name": "San Nicolás",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "San Nicolás"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9226582,
+          43.2607601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701494369",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701494369,
+        "name": "Café del Arenal",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Café del Arenal"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9230135,
+          43.2596886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701494370",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701494370,
+        "name": "Iraia",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Iraia"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9231637,
+          43.259715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701494373",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701494373,
+        "name": "Nata",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "diet:vegetarian": "no",
+          "name": "Nata",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9228485,
+          43.2598195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701570952",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701570952,
+        "name": "Orain",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "name": "Orain"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224078,
+          43.2595265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701570965",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701570965,
+        "name": "Arantza",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2026-05-12",
+          "name": "Arantza",
+          "wheelchair": "limited"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9233335,
+          43.2585846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4701746330",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4701746330,
+        "name": "Degustacion Aitke",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Degustacion Aitke",
+          "outdoor_seating": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9230864,
+          43.2579094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4703361437",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4703361437,
+        "name": "Gallo Negro",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:postcode": "48005",
+          "addr:street": "Txakur kalea",
+          "amenity": "cafe",
+          "check_date": "2024-12-28",
+          "contact:facebook": "https://www.facebook.com/Gallo-Negro-1182257628532168/",
+          "name": "Gallo Negro",
+          "phone": "+34 946 52 56 84"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9246885,
+          43.2578642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4703361438",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4703361438,
+        "name": "Terra Kafe",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Terra Kafe"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9243518,
+          43.2578866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4703361443",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4703361443,
+        "name": "Berton Sasibil",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2026-06-22",
+          "name": "Berton Sasibil"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9249419,
+          43.2582187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4703389816",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4703389816,
+        "name": "Bikiak Berri",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "amenity": "pub",
+          "check_date": "2026-06-22",
+          "name": "Bikiak Berri"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9250251,
+          43.2583351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4703669353",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4703669353,
+        "name": "Arambarri Food and Roll",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "16",
+          "addr:postcode": "48005",
+          "addr:street": "Erribera kalea",
+          "amenity": "cafe",
+          "check_date": "2025-08-18",
+          "contact:facebook": "100064068012854",
+          "contact:instagram": "arambarrifoodandroll",
+          "cuisine": "american;barbecue;burger;cake;coffee_shop;diner;sandwich",
+          "name": "Arambarri Food and Roll",
+          "website": "https://arambarrifoodandroll.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9262269,
+          43.2574952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4703669360",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4703669360,
+        "name": "Santamaría",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2025-08-17",
+          "name": "Santamaría",
+          "opening_hours": "Mo-Th 08:30-23:00; Fr, Sa 08:30-00:00; Su 12:00-16:00",
+          "phone": "+34 944 15 05 34"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9255686,
+          43.2578031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708005899",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708005899,
+        "name": "Bizitza",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "1",
+          "addr:postcode": "48005",
+          "addr:street": "Dorre kalea",
+          "amenity": "pub",
+          "name": "Bizitza",
+          "opening_hours": "Mo-Th 14:30-01:00; Fr 14:00-03:00; Sa 14:00-03:00; Su 15:00-01:00",
+          "smoking": "outside",
+          "wheelchair": "no"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9248956,
+          43.2575481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708061613",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708061613,
+        "name": "Gerri",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "name": "Gerri"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9229436,
+          43.2575318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708116872",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708116872,
+        "name": "Txomin Barullo",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "name": "Txomin Barullo"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9246137,
+          43.25738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708116873",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708116873,
+        "name": "Ormaetxe",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-22",
+          "description": "Vetado, el que lo lleva violó a una camarera. Sólo va gente despistada o gente que no es de Bilbo",
+          "name": "Ormaetxe",
+          "wheelchair": "no"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9248703,
+          43.2574586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708116874",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708116874,
+        "name": "Gure Txoko",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "31",
+          "addr:postcode": "48005",
+          "addr:street": "Barrenkale",
+          "amenity": "pub",
+          "contact:facebook": "https://www.facebook.com/p/Gure-Txoko-100063348782858/",
+          "email": "guretxokobilbo@gmail.com",
+          "name": "Gure Txoko"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9247317,
+          43.2574095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708116875",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708116875,
+        "name": "Soiz",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-22",
+          "name": "Soiz"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9247016,
+          43.2574688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209433",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209433,
+        "name": "Portuberri Barria",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Portuberri Barria"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9207521,
+          43.2580978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209434",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209434,
+        "name": "Naikari",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Naikari"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9206564,
+          43.2580995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209438",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209438,
+        "name": "Sunset Blvd & Strip",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Sunset Blvd & Strip"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9203394,
+          43.2580873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209444",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209444,
+        "name": "Babylon",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Babylon"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9196005,
+          43.2579897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209447",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209447,
+        "name": "Everest",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Everest"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9192382,
+          43.2579859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209448",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209448,
+        "name": "Bizkaigane",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Bizkaigane"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9191041,
+          43.2580056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209455",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209455,
+        "name": "Zerua",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Zerua"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9193717,
+          43.2580302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209456",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209456,
+        "name": "Laraitu",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Laraitu"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9196261,
+          43.2580893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209457",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209457,
+        "name": "Kepa",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Kepa"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9197123,
+          43.2581034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708209458",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708209458,
+        "name": "Melilla y Fez",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "7",
+          "addr:postcode": "48006",
+          "addr:street": "Iturribide kalea",
+          "amenity": "pub",
+          "cuisine": "moroccan;spanish;tapas",
+          "name": "Melilla y Fez",
+          "phone": "+34944169473"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9198108,
+          43.2581184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708519024",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708519024,
+        "name": "La Gernikesa",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "name": "La Gernikesa"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.922856,
+          43.2556056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708519026",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708519026,
+        "name": "El Sitio",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "name": "El Sitio"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.922812,
+          43.2557278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708519046",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708519046,
+        "name": "Topa",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Topa"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224055,
+          43.2574242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708519051",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708519051,
+        "name": "Txala",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:street": "Goienkale",
+          "amenity": "pub",
+          "name": "Txala"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223555,
+          43.2571153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708519053",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708519053,
+        "name": "Gure Etxea",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Gure Etxea"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224136,
+          43.2569872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4708519060",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4708519060,
+        "name": "Lurra",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Lurra"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9226968,
+          43.2564376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4709757485",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4709757485,
+        "name": "Soka",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "43",
+          "addr:postcode": "48005",
+          "addr:street": "Goienkale",
+          "amenity": "pub",
+          "contact:instagram": "soka_somera",
+          "name": "Soka",
+          "website": "https://www.soka.bar/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224559,
+          43.2572462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4709794442",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4709794442,
+        "name": "Motrikes",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "41",
+          "addr:street": "Goienkale",
+          "amenity": "pub",
+          "name": "Motrikes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224651,
+          43.2571929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4709794459",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4709794459,
+        "name": "Morga Taberna",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Morga Taberna"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9231715,
+          43.2558592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4709799648",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4709799648,
+        "name": "Kafic",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-08-19",
+          "contact:website": "https://kafic.es/",
+          "cuisine": "coffee_shop",
+          "name": "Kafic",
+          "was:beauty": "perfumery",
+          "was:name": "If",
+          "was:shop": "beauty"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9238068,
+          43.2556813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4710001844",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4710001844,
+        "name": "Emeki",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Emeki"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9235237,
+          43.2567065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4710001851",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4710001851,
+        "name": "Larralde",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-08-21",
+          "name": "Larralde"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9230733,
+          43.2572048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4710102003",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4710102003,
+        "name": "Arriola",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2025-08-20",
+          "name": "Arriola"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9240164,
+          43.2566866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4710102014",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4710102014,
+        "name": "Retolaza",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "1",
+          "addr:postcode": "48005",
+          "addr:street": "Dendarikale kalea",
+          "amenity": "pub",
+          "name": "Retolaza"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9241546,
+          43.255855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4710124725",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4710124725,
+        "name": "Mitote",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2025-08-20",
+          "name": "Mitote",
+          "website": "http://mitote.es/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9243686,
+          43.2564127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711946169",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711946169,
+        "name": "Musua",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Musua"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9241977,
+          43.257073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711946182",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711946182,
+        "name": "Palacio Arana",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2026-06-27",
+          "name": "Palacio Arana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9247754,
+          43.2560622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711962385",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711962385,
+        "name": "Manolita la Primera",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "4",
+          "addr:street": "Barrenkale",
+          "amenity": "bar",
+          "facebook": "https://www.facebook.com/p/Manolita-La-Primera-100075834102133/",
+          "instagram": "https://www.instagram.com/manolitalaprimeracopas/",
+          "lgbtq": "primary",
+          "name": "Manolita la Primera",
+          "phone": "+34 661 77 31 00",
+          "wheelchair": "no"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9251478,
+          43.2564653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711962387",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711962387,
+        "name": "Hell's Bells",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2025-08-18",
+          "name": "Hell's Bells"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9250894,
+          43.2565775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711962388",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711962388,
+        "name": "Modesto",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "name": "Modesto",
+          "wheelchair": "no"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9250596,
+          43.2566986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711965391",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711965391,
+        "name": "Luciano Berri",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "contact:facebook": "https://www.facebook.com/LucianoBerriBarrenkale/",
+          "name": "Luciano Berri"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9247339,
+          43.2572377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713089495",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713089495,
+        "name": "Hara!",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "check_date": "2026-06-27",
+          "name": "Hara!"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9247088,
+          43.2566419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230559",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230559,
+        "name": "Zipo",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "name": "Zipo"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9252216,
+          43.2565929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230560",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230560,
+        "name": "Glotón Vice",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Glotón Vice"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9252045,
+          43.256621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230561",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230561,
+        "name": "Txupitería La Pajarita",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Txupitería La Pajarita"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9252023,
+          43.2566663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230563",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230563,
+        "name": "Paquita la de Barrenka",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Paquita la de Barrenka"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9250776,
+          43.2568754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230564",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230564,
+        "name": "Beltza",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "30",
+          "addr:postcode": "48005",
+          "addr:street": "Barrenkale",
+          "amenity": "pub",
+          "check_date": "2025-08-18",
+          "contact:facebook": "https://www.facebook.com/p/Beltza-Taberna-ReggaeSoul-100063495132374/",
+          "contact:instagram": "https://www.instagram.com/beltza_taberna/",
+          "name": "Beltza"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.924769,
+          43.2571717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230565",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230565,
+        "name": "ZureBar",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "ZureBar"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9249997,
+          43.2570286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230566",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230566,
+        "name": "Santuario",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Santuario"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9249652,
+          43.2570749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230567",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230567,
+        "name": "Pepe por Dios",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "name": "Pepe por Dios"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9249395,
+          43.2571193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230568",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230568,
+        "name": "Ander Etxea",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2025-08-18",
+          "name": "Ander Etxea",
+          "opening_hours": "Mo 11:00-21:00; Tu-Fr 11:00-23:30; Su 11:00-19:00",
+          "phone": "+34 944 15 76 83"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9248955,
+          43.2571765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230569",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230569,
+        "name": "Skulls",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "name": "Skulls"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9248643,
+          43.25723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230570",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230570,
+        "name": "Epelde",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Epelde"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9248289,
+          43.257282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230572",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230572,
+        "name": "Zulo",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:street": "Dorre kalea",
+          "amenity": "pub",
+          "check_date": "2026-06-22",
+          "facebook": "https://www.facebook.com/TabernaZulo/?locale=es_ES",
+          "instagram": "https://www.instagram.com/explore/locations/341857611/zulo-taberna/",
+          "name": "Zulo"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9249208,
+          43.2573867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713230573",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713230573,
+        "name": "Zazpi Bide Taberna",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-08-02",
+          "instagram": "https://www.instagram.com/zazpitabernabilbao/?hl=es",
+          "name": "Zazpi Bide Taberna",
+          "opening_hours": "Mo-Th 18:00-01:00; Fr 17:00-01:30; Sa 12:00-02:00; Su 13:00-01:00",
+          "phone": "+34 944 11 26 96",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.925004,
+          43.2574141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713360371",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713360371,
+        "name": "Lamiak",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "check_date": "2026-06-27",
+          "name": "Lamiak"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9255218,
+          43.2573941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5055529919",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5055529919,
+        "name": "Barista's club",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "30",
+          "addr:postcode": "48005",
+          "addr:street": "Dendarikale kalea",
+          "addr:suburb": "Casco Viejo",
+          "amenity": "cafe",
+          "check_date": "2026-07-28",
+          "internet_access": "wlan",
+          "name": "Barista's club",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "phone": "+34 672066150",
+          "source": "Bilbao Open Data",
+          "source:url": "http://www.bilbao.eus/opendata",
+          "website": "https://atbaristasbilbao.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9233628,
+          43.2569054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5055531282",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5055531282,
+        "name": "La Muga",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "8",
+          "addr:postcode": "48005",
+          "addr:street": "Maria Muñoz kalea",
+          "addr:suburb": "Casco Viejo",
+          "amenity": "pub",
+          "contact:facebook": "lamugabar",
+          "contact:instagram": "lamugabilbao",
+          "cuisine": "coffee_shop;sandwich;tapas",
+          "email": "lamugabilbao@gmail.com",
+          "name": "La Muga",
+          "phone": "+34 946 79 24 68",
+          "source": "Bilbao Open Data",
+          "source:url": "http://www.bilbao.eus/opendata",
+          "website": "https://lamuga.eus/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9215401,
+          43.2579448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5055531767",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5055531767,
+        "name": "La Ley Seca",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "8",
+          "addr:postcode": "48005",
+          "addr:street": "Barrenkale Barrena",
+          "addr:suburb": "Casco Viejo",
+          "amenity": "pub",
+          "check_date": "2025-08-20",
+          "contact:facebook": "https://www.facebook.com/LeySecaBarrenkaleBarrena",
+          "drink:craft_beer": "yes",
+          "name": "La Ley Seca",
+          "opening_hours": "Su,Tu,Th 12:00-00:00; Fr,Sa 12:00-02:30",
+          "phone": "+34 628 92 79 68",
+          "source": "Bilbao Open Data",
+          "source:url": "http://www.bilbao.eus/opendata"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9253828,
+          43.2569786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5056335003",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5056335003,
+        "name": "Shelter",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "40",
+          "addr:postcode": "48006",
+          "addr:street": "Iturribide kalea",
+          "addr:suburb": "Iturralde",
+          "amenity": "pub",
+          "contact:facebook": "https://facebook.com/people/Shelter-Bilbao/100063614917082",
+          "contact:instagram": "shelterbilbao",
+          "name": "Shelter",
+          "opening_hours": "Su, We-Th 19:00-01:00; Fr 19:00-02:30; Sa 17:00-02:30",
+          "phone": "+34 946 05 33 22",
+          "source": "Bilbao Open Data",
+          "source:url": "http://www.bilbao.eus/opendata"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9189494,
+          43.257955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5204339221",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5204339221,
+        "name": "Ahoan",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Ahoan",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223047,
+          43.2591876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5493980622",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5493980622,
+        "name": "Bodega Joserra",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "35",
+          "addr:postcode": "48005",
+          "addr:street": "Artekale",
+          "amenity": "pub",
+          "check_date": "2025-08-24",
+          "name": "Bodega Joserra",
+          "opening_hours": "Mo-Sa 10:00-14:30, 19:00-23:00",
+          "phone": "+34 944 04 72 38",
+          "website": "http://bodegajoserra.blogspot.com.es"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9232635,
+          43.2569251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5790301053",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5790301053,
+        "name": "Errondabide",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "20",
+          "addr:postcode": "48005",
+          "addr:street": "Erronda kalea",
+          "amenity": "pub",
+          "check_date": "2026-06-27",
+          "name": "Errondabide",
+          "opening_hours": "Mo-We 09:30-22:00; Th-Fr 09:30-01:00; Sa 10:30-02:00; Su 10:30-16:00",
+          "phone": "+34946016346",
+          "toilets:wheelchair": "no",
+          "wheelchair": "limited",
+          "wheelchair:description": "Nice handicap toilet, not big enough for electrical wheelchair to turn around."
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9222107,
+          43.2567494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6586238085",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6586238085,
+        "name": "Sua Pintxoak",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:street": "Barrenkale Barrena",
+          "amenity": "pub",
+          "name": "Sua Pintxoak"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9253276,
+          43.2573037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10895947679",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10895947679,
+        "name": "Gorde",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Gorde",
+          "opening_hours": "Mo, Tu, Th 12:00-23:00; Fr, Sa 12:00-00:00; Su 12:00-16:00",
+          "phone": "+34 639 95 76 02"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9253982,
+          43.2581409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10895986329",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10895986329,
+        "name": "Taska Beltz",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "4",
+          "addr:street": "Pilota kalea",
+          "amenity": "bar",
+          "check_date": "2025-08-18",
+          "name": "Taska Beltz",
+          "opening_hours": "We 17:00-00:00; Th 17:00-01:00; Fr 17:00-01:30; Sa 13:00-01:30; Su 13:00-18:30",
+          "phone": "+34 688 62 91 59",
+          "website": "https://taskabeltz.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9256897,
+          43.2571755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10896547588",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10896547588,
+        "name": "Adaxka Kultur Elkartea",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "29",
+          "addr:street": "Erronda kalea",
+          "amenity": "pub",
+          "brewery": "yes;various",
+          "check_date": "2025-12-27",
+          "name": "Adaxka Kultur Elkartea",
+          "opening_hours": "Mo-Th 10:00-22:00; Fr, Sa 10:00-23:00; Su 10:00-16:00",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "phone": "+34 639 55 20 00",
+          "smoking": "outside"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223539,
+          43.2573678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11118554446",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11118554446,
+        "name": "Bidaide",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "29",
+          "addr:postcode": "48005",
+          "addr:street": "Goienkale",
+          "amenity": "cafe",
+          "check_date": "2025-08-24",
+          "contact:instagram": "bidaidetaberna",
+          "name": "Bidaide"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9227772,
+          43.2565443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11188237794",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11188237794,
+        "name": "Bohemian Lane",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "cake",
+          "diet:vegan": "only",
+          "diet:vegetarian": "only",
+          "indoor_seating": "yes",
+          "level": "0",
+          "name": "Bohemian Lane",
+          "opening_hours": "Mo-Th 09:30-13:45,16:00-20:00; Fr,Sa 09:30-14:00,16:00-20:00",
+          "outdoor_seating": "pedestrian_zone",
+          "toilets": "no",
+          "website": "https://bohemianlanebilbao.com/",
+          "wheelchair": "yes"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9248738,
+          43.2563934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11965767169",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11965767169,
+        "name": "The Craft Tabeerna",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "4",
+          "addr:postcode": "48005",
+          "addr:street": "Txakur kalea",
+          "amenity": "pub",
+          "contact:instagram": "thecrafttabeerna",
+          "name": "The Craft Tabeerna"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9247606,
+          43.2577336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12045680029",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12045680029,
+        "name": "Bira Kultur gunea",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "contact:website": "http://www.bira.eus",
+          "name": "Bira Kultur gunea"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9225949,
+          43.2559193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12297724408",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12297724408,
+        "name": "Bar & Pintxos Bizjette",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "bar",
+          "name": "Bar & Pintxos Bizjette"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9242346,
+          43.2574054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12462860842",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12462860842,
+        "name": "Con B de Bilbao",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "check_date": "2026-06-22",
+          "name": "Con B de Bilbao"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9259376,
+          43.2582984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600247646",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12600247646,
+        "name": "Pavoneo",
+        "category": "bar",
+        "amenity": "bar",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "13",
+          "addr:postcode": "48005",
+          "addr:street": "Barrenkale",
+          "amenity": "bar",
+          "contact:facebook": "https://www.facebook.com/p/Pavoneo-Bilbao-61550862415371/",
+          "email": "Pavoneobilbao@gmail.com",
+          "instagram": "https://www.instagram.com/pavoneo_bilbao/",
+          "lgbtq": "primary",
+          "name": "Pavoneo"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9250252,
+          43.25696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13075695553",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13075695553,
+        "name": "Dynamus",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Dynamus"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9259628,
+          43.2580292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13075717133",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13075717133,
+        "name": "107. Soiz",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "107. Soiz"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9246762,
+          43.2572856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13077850041",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13077850041,
+        "name": "Luzgas",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Luzgas"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9256744,
+          43.2572215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13077898891",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13077898891,
+        "name": "Carmelita la Traviesa",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Carmelita la Traviesa"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9253446,
+          43.2570519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13077920608",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13077920608,
+        "name": "El Cuji",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "El Cuji"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9250617,
+          43.2566679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13078261056",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13078261056,
+        "name": "plaza",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "plaza"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9213387,
+          43.2585649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13081505164",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13081505164,
+        "name": "La Catedral de la Cerveza",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "La Catedral de la Cerveza"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9244545,
+          43.25707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13084165627",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13084165627,
+        "name": "Okapi",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "cafe",
+          "name": "Okapi"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9239636,
+          43.2568226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13094010713",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13094010713,
+        "name": "Somera",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "diet:vegan": "yes",
+          "name": "Somera"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9231054,
+          43.2557359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13094056972",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13094056972,
+        "name": "La Revenge",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "La Revenge"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9223675,
+          43.2570983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13094076746",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13094076746,
+        "name": "Nkn",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Nkn"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224531,
+          43.2572153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13094128993",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13094128993,
+        "name": "Zazpi Kale",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Zazpi Kale"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9224121,
+          43.2562566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13250610370",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13250610370,
+        "name": "KL (Kaixo & Laukiniz)",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:city": "Bilbao",
+          "addr:housenumber": "28",
+          "addr:postcode": "48005",
+          "addr:street": "Barrenkale",
+          "amenity": "pub",
+          "name": "KL (Kaixo & Laukiniz)",
+          "outdoor_seating": "no",
+          "short_name": "KL"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9248308,
+          43.2570805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13694829801",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13694829801,
+        "name": "Manolo Bakes",
+        "category": "cafetería",
+        "amenity": "cafe",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "addr:housenumber": "2",
+          "addr:street": "Kapelagile kalea",
+          "amenity": "cafe",
+          "check_date": "2026-05-12",
+          "name": "Manolo Bakes",
+          "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+          "phone": "+34 946 22 48 76",
+          "website": "https://manolobakes.com"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9233406,
+          43.2584918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13958285316",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13958285316,
+        "name": "PK",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "PK"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9259884,
+          43.2581248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13970164413",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13970164413,
+        "name": "Iaela",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Iaela"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9235691,
+          43.2555815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13970199953",
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13970199953,
+        "name": "Txirrindu",
+        "category": "pub",
+        "amenity": "pub",
+        "source": "OpenStreetMap via Overpass API",
+        "captured_at": "2026-11-11T15:23:51.253398+00:00",
+        "location_type": "node",
+        "tags": {
+          "amenity": "pub",
+          "name": "Txirrindu"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9251831,
+          43.2566893
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-11-11T15:55:50.735454+00:00",
+  "venues": 157,
+  "unique_access_nodes": 157,
+  "same_node_groups": [],
+  "ordered_pairs": 24649,
+  "reachable_ordered_pairs": 24649,
+  "unreachable_ordered_pairs": 0,
+  "unreachable_pairs": [],
+  "asymmetric_unordered_pairs": 0,
+  "asymmetric_examples": [],
+  "walking_speed_kmh": 4.5,
+  "route_reconstruction": "Each matrix cell stores the ordered graph node sequence; edge geometries remain in the cached GraphML graph."
+}

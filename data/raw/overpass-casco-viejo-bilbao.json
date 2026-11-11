@@ -1,0 +1,1960 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-31T22:37:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2759498127,
+      "lat": 43.2573466,
+      "lon": -2.9195693,
+      "tags": {
+        "amenity": "cafe",
+        "name": "2002"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2810678501,
+      "lat": 43.2587351,
+      "lon": -2.9225213,
+      "tags": {
+        "addr:city": "Bilbao",
+        "amenity": "pub",
+        "name": "Bilbao"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2812432422,
+      "lat": 43.2593357,
+      "lon": -2.9239866,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Aitaren",
+        "note": "Está cerrado, pero lo van ha reabrir próximamente otros dueños. Se llamará Aitaren",
+        "proposed:name": "Aitaren"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2813304628,
+      "lat": 43.2581756,
+      "lon": -2.9236134,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "16",
+        "addr:postcode": "48005",
+        "addr:street": "Posta kalea",
+        "amenity": "cafe",
+        "contact:phone": "+34 944 16 18 06",
+        "name": "Bertiz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2813304629,
+      "lat": 43.2579475,
+      "lon": -2.9236084,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2025-08-16",
+        "name": "Brasil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2813304630,
+      "lat": 43.2576146,
+      "lon": -2.9240219,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2023-09-18",
+        "name": "Bizubi",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2813304639,
+      "lat": 43.2585868,
+      "lon": -2.9236143,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-09-18",
+        "name": "Kapikua"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2813304647,
+      "lat": 43.2582622,
+      "lon": -2.923437,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2025-08-16",
+        "name": "Lago"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2813304664,
+      "lat": 43.2584471,
+      "lon": -2.9236195,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Syra Coffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2813314927,
+      "lat": 43.2577291,
+      "lon": -2.9244925,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12-28",
+        "name": "Rotterdam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2813314928,
+      "lat": 43.257708,
+      "lon": -2.9247843,
+      "tags": {
+        "addr:street": "Txakur kalea",
+        "alt_name": "Txakurtxo",
+        "amenity": "pub",
+        "name": "Txakurto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2837238948,
+      "lat": 43.2571409,
+      "lon": -2.9199623,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Kaioa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2852247331,
+      "lat": 43.2586237,
+      "lon": -2.9215305,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-08-18",
+        "name": "Geltoki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2852257119,
+      "lat": 43.2581092,
+      "lon": -2.9212698,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:street": "Iturribide kalea",
+        "amenity": "pub",
+        "name": "Fermín"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2852257121,
+      "lat": 43.2581158,
+      "lon": -2.9211149,
+      "tags": {
+        "addr:city": "Bilbao",
+        "amenity": "pub",
+        "name": "Gayarre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2869902102,
+      "lat": 43.258503,
+      "lon": -2.9212089,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bacaicoa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2869902103,
+      "lat": 43.2593598,
+      "lon": -2.9222595,
+      "tags": {
+        "addr:housenumber": "12 bajo",
+        "addr:street": "Plaza Barria",
+        "amenity": "pub",
+        "level": "0",
+        "name": "Sorginzulo",
+        "opening_hours": "Mo-Sa 09:30-22:30; Su 10:00-15:30",
+        "outdoor_seating": "yes",
+        "phone": "+34 944 15 05 64",
+        "website": "https://www.sorginzulo.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3101380121,
+      "lat": 43.2608487,
+      "lon": -2.9224336,
+      "tags": {
+        "amenity": "bar",
+        "name": "La cañita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245158,
+      "lat": 43.2607558,
+      "lon": -2.9222274,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ocariz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245159,
+      "lat": 43.2579835,
+      "lon": -2.9208197,
+      "tags": {
+        "amenity": "pub",
+        "name": "Baste",
+        "opening_hours": "Tu-Su 09:00-00:00",
+        "phone": "+34 944 15 08 55"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245161,
+      "lat": 43.2597528,
+      "lon": -2.9220418,
+      "tags": {
+        "addr:city": "Bilbao",
+        "amenity": "cafe",
+        "name": "Melchor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245182,
+      "lat": 43.2579955,
+      "lon": -2.9214957,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lau Anai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245185,
+      "lat": 43.2590218,
+      "lon": -2.9220225,
+      "tags": {
+        "amenity": "pub",
+        "name": "Los Caracoles"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245188,
+      "lat": 43.2596476,
+      "lon": -2.9220002,
+      "tags": {
+        "amenity": "pub",
+        "name": "El Ciervo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245199,
+      "lat": 43.2578501,
+      "lon": -2.9216104,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sugoiberria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245202,
+      "lat": 43.259701,
+      "lon": -2.9220246,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ascao"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103245208,
+      "lat": 43.2602336,
+      "lon": -2.9221802,
+      "tags": {
+        "amenity": "pub",
+        "name": "Yamike!"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350161,
+      "lat": 43.2594282,
+      "lon": -2.9228587,
+      "tags": {
+        "amenity": "pub",
+        "language:eu": "yes",
+        "name": "Argoitia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350162,
+      "lat": 43.258827,
+      "lon": -2.9223358,
+      "tags": {
+        "amenity": "pub",
+        "name": "Charly"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350163,
+      "lat": 43.2592767,
+      "lon": -2.922272,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Coffee Break",
+        "cuisine": "coffee_shop",
+        "name": "Coffee Break",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350164,
+      "lat": 43.2593874,
+      "lon": -2.922382,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "12",
+        "addr:street": "Plaza Barria",
+        "amenity": "pub",
+        "name": "Ekain",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350166,
+      "lat": 43.2587339,
+      "lon": -2.9225953,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ereka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350169,
+      "lat": 43.2593874,
+      "lon": -2.9223102,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Plaza Barria",
+        "amenity": "pub",
+        "cuisine": "spanish",
+        "name": "Gure Toki",
+        "opening_hours": "Mo, Th-Sa 10:00-23:00; Tu 09:00-23:00; Su 10:00-16:00",
+        "phone": "+34 944158037",
+        "website": "http://www.guretoki.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350170,
+      "lat": 43.2593939,
+      "lon": -2.9224509,
+      "tags": {
+        "amenity": "pub",
+        "name": "Inma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350171,
+      "lat": 43.2590538,
+      "lon": -2.9230524,
+      "tags": {
+        "amenity": "pub",
+        "name": "Jamonería Jam",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350187,
+      "lat": 43.2589791,
+      "lon": -2.9223129,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "kebab",
+        "name": "Plaza Nueva",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350189,
+      "lat": 43.2590281,
+      "lon": -2.9223064,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Txoko Txinbo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350190,
+      "lat": 43.2587491,
+      "lon": -2.9227237,
+      "tags": {
+        "amenity": "pub",
+        "name": "Urdiña",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350191,
+      "lat": 43.2587556,
+      "lon": -2.9227912,
+      "tags": {
+        "amenity": "bar",
+        "name": "Volapié"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350193,
+      "lat": 43.2588492,
+      "lon": -2.9230938,
+      "tags": {
+        "amenity": "pub",
+        "name": "Zaharra",
+        "opening_hours": "Mo-Th 08:00-22:00; Sa 09:00-23:00; Su 09:00-22:00; Fr off",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350194,
+      "lat": 43.2591541,
+      "lon": -2.9222884,
+      "tags": {
+        "amenity": "pub",
+        "name": "Zezen Gorri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3213350195,
+      "lat": 43.258773,
+      "lon": -2.9229632,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Plaza Barria",
+        "amenity": "pub",
+        "check_date": "2024-02-12",
+        "name": "Zuga",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3528886699,
+      "lat": 43.2584546,
+      "lon": -2.9212327,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "2",
+        "addr:postcode": "48006",
+        "addr:street": "Miguel de Unamuno plaza",
+        "amenity": "pub",
+        "name": "La Roda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3528886700,
+      "lat": 43.2582593,
+      "lon": -2.9212823,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "3",
+        "addr:postcode": "48006",
+        "addr:street": "Miguel de Unamuno plaza",
+        "amenity": "pub",
+        "name": "The Beetle Bar",
+        "opening_hours": "Mo-Fr 09:00-23:00; Sa, Su 09:30-00:00",
+        "phone": "+34 944 00 98 72"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3541864609,
+      "lat": 43.2557231,
+      "lon": -2.9258604,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "16",
+        "addr:postcode": "48003",
+        "addr:street": "Martzana kalea",
+        "amenity": "bar",
+        "name": "Marzana",
+        "opening_hours": "We, Th 17:00-23:00; Fr, Sa 17:00-23:30; Su 12:00-23:00",
+        "phone": "+34 946 75 30 36",
+        "website": "http://barmarzana.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3768267225,
+      "lat": 43.2577978,
+      "lon": -2.9216448,
+      "tags": {
+        "amenity": "pub",
+        "name": "Soiz 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4040570090,
+      "lat": 43.2604267,
+      "lon": -2.9239653,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "check_date": "2024-12-28",
+        "indoor_seating": "no",
+        "name": "El Kiosko",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4252813890,
+      "lat": 43.2568153,
+      "lon": -2.9240993,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2025-08-20",
+        "name": "Isipil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4378438300,
+      "lat": 43.2571391,
+      "lon": -2.9256809,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:street": "Pilota kalea",
+        "amenity": "bar",
+        "check_date": "2024-12-28",
+        "name": "Taberna Basaras"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4406048232,
+      "lat": 43.2570208,
+      "lon": -2.9243464,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Café 91"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4502245836,
+      "lat": 43.2557195,
+      "lon": -2.9246347,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-08-29",
+        "name": "Arambeer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4634471358,
+      "lat": 43.25678,
+      "lon": -2.9202455,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maite",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4688243610,
+      "lat": 43.2561586,
+      "lon": -2.9239809,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:postcode": "48005",
+        "addr:street": "Dendarikale kalea",
+        "amenity": "bar",
+        "check_date": "2025-08-20",
+        "contact:facebook": "https://www.facebook.com/TabernaSARKUE",
+        "name": "Sarkue",
+        "opening_hours": "Su 11:00-16:00; Mo-Sa 08:45-22:30",
+        "phone": "+34946568077"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4688291794,
+      "lat": 43.2591192,
+      "lon": -2.9223191,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:postcode": "48005",
+        "addr:street": "Plaza Barria",
+        "amenity": "pub",
+        "name": "Negresco",
+        "phone": "+34944150119",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4688363990,
+      "lat": 43.2581666,
+      "lon": -2.926013,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:postcode": "48005",
+        "addr:street": "Andra Maria kalea",
+        "amenity": "pub",
+        "check_date:opening_hours": "2024-12-25",
+        "cuisine": "spanish",
+        "name": "Gatz",
+        "opening_hours": "Mo-Th 12:30-23:00; Fr-Sa 12:30-00:00; Su 12:30-16:00",
+        "opening_hours:signed": "no",
+        "phone": "+34944154861",
+        "website": "https://bargatz.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701494365,
+      "lat": 43.2607601,
+      "lon": -2.9226582,
+      "tags": {
+        "amenity": "cafe",
+        "name": "San Nicolás"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701494369,
+      "lat": 43.2596886,
+      "lon": -2.9230135,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Café del Arenal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701494370,
+      "lat": 43.259715,
+      "lon": -2.9231637,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Iraia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701494373,
+      "lat": 43.2598195,
+      "lon": -2.9228485,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "no",
+        "name": "Nata",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701570965,
+      "lat": 43.2585846,
+      "lon": -2.9233335,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2026-05-12",
+        "name": "Arantza",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701746330,
+      "lat": 43.2579094,
+      "lon": -2.9230864,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Degustacion Aitke",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703361437,
+      "lat": 43.2578642,
+      "lon": -2.9246885,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:postcode": "48005",
+        "addr:street": "Txakur kalea",
+        "amenity": "cafe",
+        "check_date": "2024-12-28",
+        "contact:facebook": "https://www.facebook.com/Gallo-Negro-1182257628532168/",
+        "name": "Gallo Negro",
+        "phone": "+34 946 52 56 84"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703361438,
+      "lat": 43.2578866,
+      "lon": -2.9243518,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Terra Kafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703361443,
+      "lat": 43.2582187,
+      "lon": -2.9249419,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2024-12-25",
+        "name": "Berton Sasibil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703389816,
+      "lat": 43.2583351,
+      "lon": -2.9250251,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12-25",
+        "name": "Bikiak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703669353,
+      "lat": 43.2574952,
+      "lon": -2.9262269,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:postcode": "48005",
+        "addr:street": "Erribera kalea",
+        "amenity": "cafe",
+        "check_date": "2025-08-18",
+        "contact:facebook": "100064068012854",
+        "contact:instagram": "arambarrifoodandroll",
+        "cuisine": "american;barbecue;burger;cake;coffee_shop;diner;sandwich",
+        "name": "Arambarri Food and Roll",
+        "website": "https://arambarrifoodandroll.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703669360,
+      "lat": 43.2578031,
+      "lon": -2.9255686,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-08-17",
+        "name": "Santamaría",
+        "opening_hours": "Mo-Th 08:30-23:00; Fr, Sa 08:30-00:00; Su 12:00-16:00",
+        "phone": "+34 944 15 05 34"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708005899,
+      "lat": 43.2575481,
+      "lon": -2.9248956,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "1",
+        "addr:postcode": "48005",
+        "addr:street": "Dorre kalea",
+        "amenity": "pub",
+        "name": "Bizitza",
+        "opening_hours": "Mo-Th 14:30-01:00; Fr 14:00-03:00; Sa 14:00-03:00; Su 15:00-01:00",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708061613,
+      "lat": 43.2575318,
+      "lon": -2.9229436,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gerri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708116872,
+      "lat": 43.25738,
+      "lon": -2.9246137,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12-29",
+        "name": "Txomin Barullo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708116873,
+      "lat": 43.2574586,
+      "lon": -2.9248703,
+      "tags": {
+        "amenity": "pub",
+        "description": "Vetado, el que lo lleva violó a una camarera. Sólo va gente despistada o gente que no es de Bilbo",
+        "name": "Ormaetxe",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708116874,
+      "lat": 43.2574095,
+      "lon": -2.9247317,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "31",
+        "addr:postcode": "48005",
+        "addr:street": "Barrenkale",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/p/Gure-Txoko-100063348782858/",
+        "email": "guretxokobilbo@gmail.com",
+        "name": "Gure Txoko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708116875,
+      "lat": 43.2574688,
+      "lon": -2.9247016,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12-29",
+        "name": "Soiz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209433,
+      "lat": 43.2580978,
+      "lon": -2.9207521,
+      "tags": {
+        "amenity": "pub",
+        "name": "Portuberri Barria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209434,
+      "lat": 43.2580995,
+      "lon": -2.9206564,
+      "tags": {
+        "amenity": "pub",
+        "name": "Naikari"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209436,
+      "lat": 43.2581002,
+      "lon": -2.9205335,
+      "tags": {
+        "amenity": "pub",
+        "name": "Iturri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209438,
+      "lat": 43.2580873,
+      "lon": -2.9203394,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sunset Blvd & Strip"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209444,
+      "lat": 43.2579897,
+      "lon": -2.9196005,
+      "tags": {
+        "amenity": "pub",
+        "name": "Babylon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209447,
+      "lat": 43.2579859,
+      "lon": -2.9192382,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209448,
+      "lat": 43.2580056,
+      "lon": -2.9191041,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bizkaigane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209455,
+      "lat": 43.2580302,
+      "lon": -2.9193717,
+      "tags": {
+        "amenity": "pub",
+        "name": "Zerua"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209456,
+      "lat": 43.2580893,
+      "lon": -2.9196261,
+      "tags": {
+        "amenity": "pub",
+        "name": "Laraitu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209457,
+      "lat": 43.2581034,
+      "lon": -2.9197123,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kepa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708209458,
+      "lat": 43.2581184,
+      "lon": -2.9198108,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:postcode": "48006",
+        "addr:street": "Iturribide kalea",
+        "amenity": "pub",
+        "cuisine": "moroccan;spanish;tapas",
+        "name": "Melilla y Fez",
+        "phone": "+34944169473"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708519024,
+      "lat": 43.2556056,
+      "lon": -2.922856,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12-26",
+        "name": "La Gernikesa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708519026,
+      "lat": 43.2557278,
+      "lon": -2.922812,
+      "tags": {
+        "amenity": "pub",
+        "name": "El Sitio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708519046,
+      "lat": 43.2574242,
+      "lon": -2.9224055,
+      "tags": {
+        "amenity": "pub",
+        "name": "Topa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708519051,
+      "lat": 43.2571153,
+      "lon": -2.9223555,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:street": "Goienkale",
+        "amenity": "pub",
+        "name": "Txalaparta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708519053,
+      "lat": 43.2569872,
+      "lon": -2.9224136,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gure Etxea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708519060,
+      "lat": 43.2564376,
+      "lon": -2.9226968,
+      "tags": {
+        "amenity": "pub",
+        "name": "La Sede"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4709757485,
+      "lat": 43.2572462,
+      "lon": -2.9224559,
+      "tags": {
+        "addr:housenumber": "43",
+        "addr:postcode": "48005",
+        "addr:street": "Goienkale",
+        "amenity": "pub",
+        "contact:instagram": "soka_somera",
+        "name": "Soka",
+        "website": "https://www.soka.bar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4709794442,
+      "lat": 43.2571929,
+      "lon": -2.9224651,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "41",
+        "addr:street": "Goienkale",
+        "amenity": "pub",
+        "name": "Motrikes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4709794459,
+      "lat": 43.2558592,
+      "lon": -2.9231715,
+      "tags": {
+        "amenity": "pub",
+        "name": "Veggira Taberna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4709799648,
+      "lat": 43.2556813,
+      "lon": -2.9238068,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2025-08-19",
+        "contact:website": "https://kafic.es/",
+        "cuisine": "coffee_shop",
+        "name": "Kafic",
+        "was:beauty": "perfumery",
+        "was:name": "If",
+        "was:shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710001844,
+      "lat": 43.2567065,
+      "lon": -2.9235237,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Emeki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710001851,
+      "lat": 43.2572048,
+      "lon": -2.9230733,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2025-08-21",
+        "name": "Larralde"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710102003,
+      "lat": 43.2566866,
+      "lon": -2.9240164,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2025-08-20",
+        "name": "Arriola"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710102014,
+      "lat": 43.255855,
+      "lon": -2.9241546,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "1",
+        "addr:postcode": "48005",
+        "addr:street": "Dendarikale kalea",
+        "amenity": "pub",
+        "name": "Retolaza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710124725,
+      "lat": 43.2564127,
+      "lon": -2.9243686,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-08-20",
+        "name": "Mitote",
+        "website": "http://mitote.es/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711946169,
+      "lat": 43.257073,
+      "lon": -2.9241977,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Musua"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711946182,
+      "lat": 43.2560622,
+      "lon": -2.9247754,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2024-12-26",
+        "name": "Palacio Arana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711962385,
+      "lat": 43.2564653,
+      "lon": -2.9251478,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "4",
+        "addr:street": "Barrenkale",
+        "amenity": "bar",
+        "facebook": "https://www.facebook.com/p/Manolita-La-Primera-100075834102133/",
+        "instagram": "https://www.instagram.com/manolitalaprimeracopas/",
+        "lgbtq": "primary",
+        "name": "Manolita la Primera",
+        "phone": "+34 661 77 31 00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711962387,
+      "lat": 43.2565775,
+      "lon": -2.9250894,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-08-18",
+        "name": "Hell's Bells"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711962388,
+      "lat": 43.2566986,
+      "lon": -2.9250596,
+      "tags": {
+        "amenity": "bar",
+        "name": "Modesto",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711965389,
+      "lat": 43.2567467,
+      "lon": -2.9250054,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ander",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711965391,
+      "lat": 43.2572377,
+      "lon": -2.9247339,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12-29",
+        "contact:facebook": "https://www.facebook.com/LucianoBerriBarrenkale/",
+        "name": "Luciano Berri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713089495,
+      "lat": 43.2566419,
+      "lon": -2.9247088,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Hara!"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230559,
+      "lat": 43.2565929,
+      "lon": -2.9252216,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12-29",
+        "name": "Zipo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230560,
+      "lat": 43.256621,
+      "lon": -2.9252045,
+      "tags": {
+        "amenity": "pub",
+        "name": "Glotón Vice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230561,
+      "lat": 43.2566663,
+      "lon": -2.9252023,
+      "tags": {
+        "amenity": "pub",
+        "name": "Baila!"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230563,
+      "lat": 43.2568754,
+      "lon": -2.9250776,
+      "tags": {
+        "amenity": "pub",
+        "name": "Paquita la de Barrenka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230564,
+      "lat": 43.2571717,
+      "lon": -2.924769,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "30",
+        "addr:postcode": "48005",
+        "addr:street": "Barrenkale",
+        "amenity": "pub",
+        "check_date": "2025-08-18",
+        "contact:facebook": "https://www.facebook.com/p/Beltza-Taberna-ReggaeSoul-100063495132374/",
+        "contact:instagram": "https://www.instagram.com/beltza_taberna/",
+        "name": "Beltza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230565,
+      "lat": 43.2570286,
+      "lon": -2.9249997,
+      "tags": {
+        "amenity": "pub",
+        "name": "ZureBar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230566,
+      "lat": 43.2570749,
+      "lon": -2.9249652,
+      "tags": {
+        "amenity": "pub",
+        "name": "Santuario"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230567,
+      "lat": 43.2571193,
+      "lon": -2.9249395,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pepe por Dios"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230568,
+      "lat": 43.2571765,
+      "lon": -2.9248955,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-08-18",
+        "name": "Ander Etxea",
+        "opening_hours": "Mo 11:00-21:00; Tu-Fr 11:00-23:30; Su 11:00-19:00",
+        "phone": "+34 944 15 76 83"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230569,
+      "lat": 43.25723,
+      "lon": -2.9248643,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12-29",
+        "name": "Skulls"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230570,
+      "lat": 43.257282,
+      "lon": -2.9248289,
+      "tags": {
+        "amenity": "pub",
+        "name": "Epelde"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230572,
+      "lat": 43.2573867,
+      "lon": -2.9249208,
+      "tags": {
+        "addr:street": "Dorre kalea",
+        "amenity": "pub",
+        "check_date": "2024-12-29",
+        "facebook": "https://www.facebook.com/TabernaZulo/?locale=es_ES",
+        "instagram": "https://www.instagram.com/explore/locations/341857611/zulo-taberna/",
+        "name": "Zulo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713230573,
+      "lat": 43.2574141,
+      "lon": -2.925004,
+      "tags": {
+        "amenity": "pub",
+        "instagram": "https://www.instagram.com/zazpitabernabilbao/?hl=es",
+        "name": "Zazpi Bide Taberna",
+        "opening_hours": "Mo-Th 18:00-01:00; Fr 17:00-01:30; Sa 12:00-02:00; Su 13:00-01:00",
+        "phone": "+34 944 11 26 96",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713360371,
+      "lat": 43.2573941,
+      "lon": -2.9255218,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-12-28",
+        "name": "Lamiak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4738054188,
+      "lat": 43.2555151,
+      "lon": -2.9260446,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "48003",
+        "addr:street": "Arechaga kalea",
+        "amenity": "pub",
+        "name": "El Laterío",
+        "phone": "+34 655948696"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5055529919,
+      "lat": 43.2569054,
+      "lon": -2.9233628,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "30",
+        "addr:postcode": "48005",
+        "addr:street": "Dendarikale kalea",
+        "addr:suburb": "Casco Viejo",
+        "amenity": "cafe",
+        "name": "Barista's club",
+        "phone": "+34 672066150",
+        "source": "Bilbao Open Data",
+        "source:url": "http://www.bilbao.eus/opendata",
+        "website": "https://atbaristasbilbao.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5055531282,
+      "lat": 43.2579448,
+      "lon": -2.9215401,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "8",
+        "addr:postcode": "48005",
+        "addr:street": "Maria Muñoz kalea",
+        "addr:suburb": "Casco Viejo",
+        "amenity": "pub",
+        "contact:facebook": "lamugabar",
+        "contact:instagram": "lamugabilbao",
+        "cuisine": "coffee_shop;sandwich;tapas",
+        "email": "lamugabilbao@gmail.com",
+        "name": "La Muga",
+        "phone": "+34 946 79 24 68",
+        "source": "Bilbao Open Data",
+        "source:url": "http://www.bilbao.eus/opendata",
+        "website": "https://lamuga.eus/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5055531767,
+      "lat": 43.2569786,
+      "lon": -2.9253828,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "8",
+        "addr:postcode": "48005",
+        "addr:street": "Barrenkale Barrena",
+        "addr:suburb": "Casco Viejo",
+        "amenity": "pub",
+        "check_date": "2025-08-20",
+        "contact:facebook": "https://www.facebook.com/LeySecaBarrenkaleBarrena",
+        "drink:craft_beer": "yes",
+        "name": "La Ley Seca",
+        "opening_hours": "Su,Tu,Th 12:00-00:00; Fr,Sa 12:00-02:30",
+        "phone": "+34 628 92 79 68",
+        "source": "Bilbao Open Data",
+        "source:url": "http://www.bilbao.eus/opendata"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5204339221,
+      "lat": 43.2591876,
+      "lon": -2.9223047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ahoan",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5493980622,
+      "lat": 43.2569251,
+      "lon": -2.9232635,
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:postcode": "48005",
+        "addr:street": "Artekale",
+        "amenity": "pub",
+        "check_date": "2025-08-24",
+        "name": "Bodega Joserra",
+        "opening_hours": "Mo-Sa 10:00-14:30, 19:00-23:00",
+        "phone": "+34 944 04 72 38",
+        "website": "http://bodegajoserra.blogspot.com.es"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5643839509,
+      "lat": 43.255432,
+      "lon": -2.9263478,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "48003",
+        "addr:street": "Aretxaga kalea",
+        "amenity": "pub",
+        "contact:facebook": "bihotzsanfrancisco",
+        "drink:craft_beer": "yes",
+        "email": "bihotzcafebilbao@gmail.com",
+        "name": "Bihotz",
+        "opening_hours": "Tu-Th 15:00-22:00; Fr 12:00-22:00; Sa 11:00-23:00; Su 11:00-22:00",
+        "phone": "+34 679 06 03 12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5790301053,
+      "lat": 43.2567494,
+      "lon": -2.9222107,
+      "tags": {
+        "addr:housenumber": "20",
+        "addr:postcode": "48005",
+        "addr:street": "Erronda kalea",
+        "amenity": "pub",
+        "check_date": "2024-12-26",
+        "name": "Errondabide",
+        "opening_hours": "Mo-We 09:30-22:00; Th-Fr 09:30-01:00; Sa 10:30-02:00; Su 10:30-16:00",
+        "phone": "+34946016346",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Nice handicap toilet, not big enough for electrical wheelchair to turn around."
+      }
+    },
+    {
+      "type": "node",
+      "id": 6586238085,
+      "lat": 43.2573037,
+      "lon": -2.9253276,
+      "tags": {
+        "addr:street": "Barrenkale Barrena",
+        "amenity": "pub",
+        "name": "Sua Pintxoak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10895947679,
+      "lat": 43.2581409,
+      "lon": -2.9253982,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gorde",
+        "opening_hours": "Mo, Tu, Th 12:00-23:00; Fr, Sa 12:00-00:00; Su 12:00-16:00",
+        "phone": "+34 639 95 76 02"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10895986329,
+      "lat": 43.2571755,
+      "lon": -2.9256897,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Pilota kalea",
+        "amenity": "bar",
+        "check_date": "2025-08-18",
+        "name": "Taska Beltz",
+        "opening_hours": "We 17:00-00:00; Th 17:00-01:00; Fr 17:00-01:30; Sa 13:00-01:30; Su 13:00-18:30",
+        "phone": "+34 688 62 91 59",
+        "website": "https://taskabeltz.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10896547588,
+      "lat": 43.2573678,
+      "lon": -2.9223539,
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:street": "Erronda kalea",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "check_date": "2025-12-27",
+        "name": "Adaxa Kultur Elkartea",
+        "opening_hours": "Mo-Th 10:00-22:00; Fr, Sa 10:00-23:00; Su 10:00-16:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+34 639 55 20 00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11109577305,
+      "lat": 43.2552815,
+      "lon": -2.9267936,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11117303606,
+      "lat": 43.2557728,
+      "lon": -2.9257947,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-08-24",
+        "name": "Muelle 16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11118554446,
+      "lat": 43.2565443,
+      "lon": -2.9227772,
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:postcode": "48005",
+        "addr:street": "Goienkale",
+        "amenity": "cafe",
+        "check_date": "2025-08-24",
+        "contact:instagram": "bidaidetaberna",
+        "name": "Bidaide"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11188237794,
+      "lat": 43.2563934,
+      "lon": -2.9248738,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "level": "0",
+        "name": "Bohemian Lane",
+        "opening_hours": "Mo-Th 09:30-13:45,16:00-20:00; Fr,Sa 09:30-14:00,16:00-20:00",
+        "toilets": "no",
+        "website": "https://bohemianlanebilbao.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11965767169,
+      "lat": 43.2577336,
+      "lon": -2.9247606,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "48005",
+        "addr:street": "Txakur kalea",
+        "amenity": "pub",
+        "contact:instagram": "thecrafttabeerna",
+        "name": "The Craft Tabeerna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12045680029,
+      "lat": 43.2559193,
+      "lon": -2.9225949,
+      "tags": {
+        "amenity": "pub",
+        "contact:website": "http://www.bira.eus",
+        "name": "Bira Kultur gunea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12297724408,
+      "lat": 43.2574054,
+      "lon": -2.9242346,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar & Pintxos Bizjette"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12462860842,
+      "lat": 43.2582984,
+      "lon": -2.9259376,
+      "tags": {
+        "amenity": "pub",
+        "name": "Con B de Bilbao"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12600247646,
+      "lat": 43.25696,
+      "lon": -2.9250252,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "13",
+        "addr:postcode": "48005",
+        "addr:street": "Barrenkale",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/p/Pavoneo-Bilbao-61550862415371/",
+        "email": "Pavoneobilbao@gmail.com",
+        "instagram": "https://www.instagram.com/pavoneo_bilbao/",
+        "lgbtq": "primary",
+        "name": "Pavoneo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13075695553,
+      "lat": 43.2580292,
+      "lon": -2.9259628,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dynamus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13075717133,
+      "lat": 43.2572856,
+      "lon": -2.9246762,
+      "tags": {
+        "amenity": "pub",
+        "name": "107. Soiz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13077850041,
+      "lat": 43.2572215,
+      "lon": -2.9256744,
+      "tags": {
+        "amenity": "pub",
+        "name": "Luzgas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13077898891,
+      "lat": 43.2570519,
+      "lon": -2.9253446,
+      "tags": {
+        "amenity": "pub",
+        "name": "Consorcio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13077920608,
+      "lat": 43.2566679,
+      "lon": -2.9250617,
+      "tags": {
+        "amenity": "pub",
+        "name": "El Cuji"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13077940970,
+      "lat": 43.2569858,
+      "lon": -2.9249952,
+      "tags": {
+        "amenity": "pub",
+        "name": "KD"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13078261056,
+      "lat": 43.2585649,
+      "lon": -2.9213387,
+      "tags": {
+        "amenity": "pub",
+        "name": "plaza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13081505164,
+      "lat": 43.25707,
+      "lon": -2.9244545,
+      "tags": {
+        "amenity": "pub",
+        "name": "La Catedral de la Cerveza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13084165627,
+      "lat": 43.2568226,
+      "lon": -2.9239636,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Okapi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13094010713,
+      "lat": 43.2557359,
+      "lon": -2.9231054,
+      "tags": {
+        "amenity": "pub",
+        "diet:vegan": "yes",
+        "name": "Somera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13094056972,
+      "lat": 43.2570983,
+      "lon": -2.9223675,
+      "tags": {
+        "amenity": "pub",
+        "name": "La Revenge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13094076746,
+      "lat": 43.2572153,
+      "lon": -2.9224531,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nkn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13094128993,
+      "lat": 43.2562566,
+      "lon": -2.9224121,
+      "tags": {
+        "amenity": "pub",
+        "name": "Zazpi Kale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13250610370,
+      "lat": 43.2570805,
+      "lon": -2.9248308,
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "28",
+        "addr:postcode": "48005",
+        "addr:street": "Barrenkale",
+        "amenity": "pub",
+        "name": "KL (Kaixo & Laukiniz)",
+        "outdoor_seating": "no",
+        "short_name": "KL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13694829801,
+      "lat": 43.2584918,
+      "lon": -2.9233406,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Kapelagile kalea",
+        "amenity": "cafe",
+        "check_date": "2026-05-12",
+        "name": "Manolo Bakes",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+        "phone": "+34 946 22 48 76",
+        "website": "https://manolobakes.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496205893,
+      "center": {
+        "lat": 43.2607759,
+        "lon": -2.9276474
+      },
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:halal": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "La Parada de Bilbao",
+        "outdoor_seating": "yes",
+        "room": "restaurant",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 968104583,
+      "center": {
+        "lat": 43.2602925,
+        "lon": -2.9260757
+      },
+      "tags": {
+        "addr:city": "Bilbao",
+        "addr:housenumber": "1",
+        "addr:postcode": "48003",
+        "addr:street": "Bailen kalea",
+        "amenity": "cafe",
+        "indoor": "room",
+        "level": "0",
+        "name": "CaFeve",
+        "room": "dining"
+      }
+    }
+  ],
+  "_bilbao_metadata": {
+    "endpoint": "https://overpass.kumi.systems/api/interpreter",
+    "query": "[out:json][timeout:90];\n(\n  nwr[\"amenity\"~\"^(bar|pub|cafe|biergarten)$\"](poly:\"43.2608 -2.9285 43.261 -2.922 43.2585 -2.9188 43.255 -2.9204 43.2552 -2.9268 43.2608 -2.9285\");\n);\nout center tags;",
+    "captured_at": "2026-11-11T13:22:53.522822+00:00",
+    "study_area": "data/study-areas/casco-viejo-bilbao.geojson"
+  }
+}

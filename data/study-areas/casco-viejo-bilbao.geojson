@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siete Calles, Plaza Nueva y El Arenal",
+        "source": "manual-study-area",
+        "notes": "Perímetro inicial de estudio; excluye Atxuri. Revisar y editar antes de publicar resultados definitivos."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.926698,
+              43.258721
+            ],
+            [
+              -2.925121,
+              43.259878
+            ],
+            [
+              -2.923458,
+              43.261855
+            ],
+            [
+              -2.923109,
+              43.263523
+            ],
+            [
+              -2.921631,
+              43.260192
+            ],
+            [
+              -2.920749,
+              43.258706
+            ],
+            [
+              -2.919038,
+              43.258421
+            ],
+            [
+              -2.9184,
+              43.257835
+            ],
+            [
+              -2.92161,
+              43.257446
+            ],
+            [
+              -2.922674,
+              43.255283
+            ],
+            [
+              -2.925067,
+              43.256049
+            ],
+            [
+              -2.926408,
+              43.25712
+            ],
+            [
+              -2.926912,
+              43.257917
+            ],
+            [
+              -2.926698,
+              43.258721
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

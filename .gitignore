@@ -1,0 +1,27 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local development and OS files
+.DS_Store
+*.log
+.env
+.env.*
+
+# Temporary build and preview artifacts
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Local notebook/runtime state
+.ipynb_checkpoints/
+
+# Editor and tool metadata
+.idea/
+.vscode/

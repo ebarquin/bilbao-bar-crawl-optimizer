@@ -1,0 +1,13 @@
+{
+  "scenario": "open_fixed_start_free_end",
+  "start": {
+    "id": "plaza-nueva",
+    "name": "Plaza Nueva",
+    "coordinates": [-2.9237, 43.2577]
+  },
+  "end": null,
+  "walking_speed_kmh": 4.5,
+  "stop_duration_min": 15,
+  "daily_duration_min": 360,
+  "random_seeds": [7, 19, 42, 73, 101, 137, 211, 307, 401, 509]
+}

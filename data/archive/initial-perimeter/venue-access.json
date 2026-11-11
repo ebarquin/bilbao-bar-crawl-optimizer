@@ -1,0 +1,2548 @@
+[
+  {
+    "venue_id": "node/2759498127",
+    "osm_type": "node",
+    "osm_id": 2759498127,
+    "name": "2002",
+    "node": 13395427648,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9195693,
+      43.2573466
+    ],
+    "graph_point": [
+      -2.9194638,
+      43.2571428
+    ]
+  },
+  {
+    "venue_id": "node/2810678501",
+    "osm_type": "node",
+    "osm_id": 2810678501,
+    "name": "Bilbao",
+    "node": 5091168468,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9225213,
+      43.2587351
+    ],
+    "graph_point": [
+      -2.922559,
+      43.2587657
+    ]
+  },
+  {
+    "venue_id": "node/2812432422",
+    "osm_type": "node",
+    "osm_id": 2812432422,
+    "name": "Aitaren",
+    "node": 12837454503,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9239866,
+      43.2593357
+    ],
+    "graph_point": [
+      -2.924124,
+      43.2593684
+    ]
+  },
+  {
+    "venue_id": "node/2813304628",
+    "osm_type": "node",
+    "osm_id": 2813304628,
+    "name": "Bertiz",
+    "node": 5094404997,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9236134,
+      43.2581756
+    ],
+    "graph_point": [
+      -2.9235652,
+      43.2581557
+    ]
+  },
+  {
+    "venue_id": "node/2813304629",
+    "osm_type": "node",
+    "osm_id": 2813304629,
+    "name": "Brasil",
+    "node": 1869052418,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9236084,
+      43.2579475
+    ],
+    "graph_point": [
+      -2.9235679,
+      43.2578823
+    ]
+  },
+  {
+    "venue_id": "node/2813304630",
+    "osm_type": "node",
+    "osm_id": 2813304630,
+    "name": "Bizubi",
+    "node": 4136231907,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9240219,
+      43.2576146
+    ],
+    "graph_point": [
+      -2.9239723,
+      43.2575552
+    ]
+  },
+  {
+    "venue_id": "node/2813304639",
+    "osm_type": "node",
+    "osm_id": 2813304639,
+    "name": "Kapikua",
+    "node": 1846136820,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9236143,
+      43.2585868
+    ],
+    "graph_point": [
+      -2.923563,
+      43.258548
+    ]
+  },
+  {
+    "venue_id": "node/2813304647",
+    "osm_type": "node",
+    "osm_id": 2813304647,
+    "name": "Lago",
+    "node": 5094404971,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.923437,
+      43.2582622
+    ],
+    "graph_point": [
+      -2.9234629,
+      43.2583425
+    ]
+  },
+  {
+    "venue_id": "node/2813304664",
+    "osm_type": "node",
+    "osm_id": 2813304664,
+    "name": "Syra Coffee",
+    "node": 14300812540,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9236195,
+      43.2584471
+    ],
+    "graph_point": [
+      -2.9235628,
+      43.2583971
+    ]
+  },
+  {
+    "venue_id": "node/2813314927",
+    "osm_type": "node",
+    "osm_id": 2813314927,
+    "name": "Rotterdam",
+    "node": 5094306875,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9244925,
+      43.2577291
+    ],
+    "graph_point": [
+      -2.9244644,
+      43.2577679
+    ]
+  },
+  {
+    "venue_id": "node/2813314928",
+    "osm_type": "node",
+    "osm_id": 2813314928,
+    "name": "Txakurto",
+    "node": 5094306869,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9247843,
+      43.257708
+    ],
+    "graph_point": [
+      -2.9248505,
+      43.2577411
+    ]
+  },
+  {
+    "venue_id": "node/2837238948",
+    "osm_type": "node",
+    "osm_id": 2837238948,
+    "name": "Bar Kaioa",
+    "node": 482750143,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9199623,
+      43.2571409
+    ],
+    "graph_point": [
+      -2.9200865,
+      43.2571551
+    ]
+  },
+  {
+    "venue_id": "node/2852247331",
+    "osm_type": "node",
+    "osm_id": 2852247331,
+    "name": "Geltoki",
+    "node": 1736371646,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9215305,
+      43.2586237
+    ],
+    "graph_point": [
+      -2.9216045,
+      43.2586057
+    ]
+  },
+  {
+    "venue_id": "node/2852257119",
+    "osm_type": "node",
+    "osm_id": 2852257119,
+    "name": "Fermín",
+    "node": 4708209463,
+    "access_method": "manual_override",
+    "source_point": [
+      -2.9212698,
+      43.2581092
+    ],
+    "graph_point": [
+      -2.921132,
+      43.2581621
+    ],
+    "street_name": "Iturribide kalea",
+    "override_reason": "Acceso confirmado manualmente por el usuario; el punto OSM del establecimiento debe conectarse a Iturribide, no al pequeño tramo aislado de steps."
+  },
+  {
+    "venue_id": "node/2852257121",
+    "osm_type": "node",
+    "osm_id": 2852257121,
+    "name": "Gayarre",
+    "node": 4136231946,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9211149,
+      43.2581158
+    ],
+    "graph_point": [
+      -2.9210737,
+      43.2581301
+    ]
+  },
+  {
+    "venue_id": "node/2869902102",
+    "osm_type": "node",
+    "osm_id": 2869902102,
+    "name": "Bacaicoa",
+    "node": 1736371576,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9212089,
+      43.258503
+    ],
+    "graph_point": [
+      -2.9212591,
+      43.2585132
+    ]
+  },
+  {
+    "venue_id": "node/2869902103",
+    "osm_type": "node",
+    "osm_id": 2869902103,
+    "name": "Sorginzulo",
+    "node": 1244703929,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9222595,
+      43.2593598
+    ],
+    "graph_point": [
+      -2.9223024,
+      43.2593386
+    ]
+  },
+  {
+    "venue_id": "node/3101380121",
+    "osm_type": "node",
+    "osm_id": 3101380121,
+    "name": "La cañita",
+    "node": 1308278542,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9224336,
+      43.2608487
+    ],
+    "graph_point": [
+      -2.9223211,
+      43.2609916
+    ]
+  },
+  {
+    "venue_id": "node/3103245158",
+    "osm_type": "node",
+    "osm_id": 3103245158,
+    "name": "Ocariz",
+    "node": 4577581784,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9222274,
+      43.2607558
+    ],
+    "graph_point": [
+      -2.9222322,
+      43.2607137
+    ]
+  },
+  {
+    "venue_id": "node/3103245159",
+    "osm_type": "node",
+    "osm_id": 3103245159,
+    "name": "Baste",
+    "node": 13395427709,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9208197,
+      43.2579835
+    ],
+    "graph_point": [
+      -2.9207746,
+      43.2578977
+    ]
+  },
+  {
+    "venue_id": "node/3103245161",
+    "osm_type": "node",
+    "osm_id": 3103245161,
+    "name": "Melchor",
+    "node": 1308283408,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9220418,
+      43.2597528
+    ],
+    "graph_point": [
+      -2.9221447,
+      43.2598923
+    ]
+  },
+  {
+    "venue_id": "node/3103245182",
+    "osm_type": "node",
+    "osm_id": 3103245182,
+    "name": "Lau Anai",
+    "node": 13395427712,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9214957,
+      43.2579955
+    ],
+    "graph_point": [
+      -2.92151,
+      43.2579995
+    ]
+  },
+  {
+    "venue_id": "node/3103245185",
+    "osm_type": "node",
+    "osm_id": 3103245185,
+    "name": "Los Caracoles",
+    "node": 5091168442,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9220225,
+      43.2590218
+    ],
+    "graph_point": [
+      -2.9223255,
+      43.2591716
+    ]
+  },
+  {
+    "venue_id": "node/3103245188",
+    "osm_type": "node",
+    "osm_id": 3103245188,
+    "name": "El Ciervo",
+    "node": 310995244,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9220002,
+      43.2596476
+    ],
+    "graph_point": [
+      -2.9220916,
+      43.2595789
+    ]
+  },
+  {
+    "venue_id": "node/3103245199",
+    "osm_type": "node",
+    "osm_id": 3103245199,
+    "name": "Sugoiberria",
+    "node": 13395427712,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9216104,
+      43.2578501
+    ],
+    "graph_point": [
+      -2.92151,
+      43.2579995
+    ]
+  },
+  {
+    "venue_id": "node/3103245202",
+    "osm_type": "node",
+    "osm_id": 3103245202,
+    "name": "Ascao",
+    "node": 310995244,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9220246,
+      43.259701
+    ],
+    "graph_point": [
+      -2.9220916,
+      43.2595789
+    ]
+  },
+  {
+    "venue_id": "node/3103245208",
+    "osm_type": "node",
+    "osm_id": 3103245208,
+    "name": "Yamike!",
+    "node": 1308278548,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9221802,
+      43.2602336
+    ],
+    "graph_point": [
+      -2.92222,
+      43.260267
+    ]
+  },
+  {
+    "venue_id": "node/3213350161",
+    "osm_type": "node",
+    "osm_id": 3213350161,
+    "name": "Argoitia",
+    "node": 5091168625,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9228587,
+      43.2594282
+    ],
+    "graph_point": [
+      -2.9227991,
+      43.2593772
+    ]
+  },
+  {
+    "venue_id": "node/3213350162",
+    "osm_type": "node",
+    "osm_id": 3213350162,
+    "name": "Charly",
+    "node": 5091168454,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223358,
+      43.258827
+    ],
+    "graph_point": [
+      -2.9223644,
+      43.2588912
+    ]
+  },
+  {
+    "venue_id": "node/3213350163",
+    "osm_type": "node",
+    "osm_id": 3213350163,
+    "name": "Coffee Break",
+    "node": 5091168437,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.922272,
+      43.2592767
+    ],
+    "graph_point": [
+      -2.9223131,
+      43.2592613
+    ]
+  },
+  {
+    "venue_id": "node/3213350164",
+    "osm_type": "node",
+    "osm_id": 3213350164,
+    "name": "Ekain",
+    "node": 5091168629,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.922382,
+      43.2593874
+    ],
+    "graph_point": [
+      -2.9223989,
+      43.2593469
+    ]
+  },
+  {
+    "venue_id": "node/3213350166",
+    "osm_type": "node",
+    "osm_id": 3213350166,
+    "name": "Ereka",
+    "node": 5091168468,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9225953,
+      43.2587339
+    ],
+    "graph_point": [
+      -2.922559,
+      43.2587657
+    ]
+  },
+  {
+    "venue_id": "node/3213350169",
+    "osm_type": "node",
+    "osm_id": 3213350169,
+    "name": "Gure Toki",
+    "node": 1244703929,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223102,
+      43.2593874
+    ],
+    "graph_point": [
+      -2.9223024,
+      43.2593386
+    ]
+  },
+  {
+    "venue_id": "node/3213350170",
+    "osm_type": "node",
+    "osm_id": 3213350170,
+    "name": "Inma",
+    "node": 5091168629,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9224509,
+      43.2593939
+    ],
+    "graph_point": [
+      -2.9223989,
+      43.2593469
+    ]
+  },
+  {
+    "venue_id": "node/3213350171",
+    "osm_type": "node",
+    "osm_id": 3213350171,
+    "name": "Jamonería Jam",
+    "node": 510182094,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9230524,
+      43.2590538
+    ],
+    "graph_point": [
+      -2.9230203,
+      43.2590838
+    ]
+  },
+  {
+    "venue_id": "node/3213350187",
+    "osm_type": "node",
+    "osm_id": 3213350187,
+    "name": "Plaza Nueva",
+    "node": 5091168445,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223129,
+      43.2589791
+    ],
+    "graph_point": [
+      -2.9223571,
+      43.2589439
+    ]
+  },
+  {
+    "venue_id": "node/3213350189",
+    "osm_type": "node",
+    "osm_id": 3213350189,
+    "name": "Txoko Txinbo",
+    "node": 5091168445,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223064,
+      43.2590281
+    ],
+    "graph_point": [
+      -2.9223571,
+      43.2589439
+    ]
+  },
+  {
+    "venue_id": "node/3213350190",
+    "osm_type": "node",
+    "osm_id": 3213350190,
+    "name": "Urdiña",
+    "node": 5091168467,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9227237,
+      43.2587491
+    ],
+    "graph_point": [
+      -2.9226866,
+      43.2587747
+    ]
+  },
+  {
+    "venue_id": "node/3213350191",
+    "osm_type": "node",
+    "osm_id": 3213350191,
+    "name": "Volapié",
+    "node": 5091168467,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9227912,
+      43.2587556
+    ],
+    "graph_point": [
+      -2.9226866,
+      43.2587747
+    ]
+  },
+  {
+    "venue_id": "node/3213350193",
+    "osm_type": "node",
+    "osm_id": 3213350193,
+    "name": "Zaharra",
+    "node": 5091168491,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9230938,
+      43.2588492
+    ],
+    "graph_point": [
+      -2.9230572,
+      43.2588158
+    ]
+  },
+  {
+    "venue_id": "node/3213350194",
+    "osm_type": "node",
+    "osm_id": 3213350194,
+    "name": "Zezen Gorri",
+    "node": 5091168442,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9222884,
+      43.2591541
+    ],
+    "graph_point": [
+      -2.9223255,
+      43.2591716
+    ]
+  },
+  {
+    "venue_id": "node/3213350195",
+    "osm_type": "node",
+    "osm_id": 3213350195,
+    "name": "Zuga",
+    "node": 5091168475,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9229632,
+      43.258773
+    ],
+    "graph_point": [
+      -2.9229573,
+      43.2587938
+    ]
+  },
+  {
+    "venue_id": "node/3528886699",
+    "osm_type": "node",
+    "osm_id": 3528886699,
+    "name": "La Roda",
+    "node": 1736371576,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9212327,
+      43.2584546
+    ],
+    "graph_point": [
+      -2.9212591,
+      43.2585132
+    ]
+  },
+  {
+    "venue_id": "node/3528886700",
+    "osm_type": "node",
+    "osm_id": 3528886700,
+    "name": "The Beetle Bar",
+    "node": 1736371709,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9212823,
+      43.2582593
+    ],
+    "graph_point": [
+      -2.9213856,
+      43.2582549
+    ]
+  },
+  {
+    "venue_id": "node/3541864609",
+    "osm_type": "node",
+    "osm_id": 3541864609,
+    "name": "Marzana",
+    "node": 662840824,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9258604,
+      43.2557231
+    ],
+    "graph_point": [
+      -2.9259664,
+      43.2557296
+    ]
+  },
+  {
+    "venue_id": "node/3768267225",
+    "osm_type": "node",
+    "osm_id": 3768267225,
+    "name": "Soiz 3",
+    "node": 13395427701,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9216448,
+      43.2577978
+    ],
+    "graph_point": [
+      -2.921817,
+      43.2576273
+    ]
+  },
+  {
+    "venue_id": "node/4040570090",
+    "osm_type": "node",
+    "osm_id": 4040570090,
+    "name": "El Kiosko",
+    "node": 7198409207,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9239653,
+      43.2604267
+    ],
+    "graph_point": [
+      -2.9240517,
+      43.260466
+    ]
+  },
+  {
+    "venue_id": "node/4252813890",
+    "osm_type": "node",
+    "osm_id": 4252813890,
+    "name": "Isipil",
+    "node": 13711587892,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9240993,
+      43.2568153
+    ],
+    "graph_point": [
+      -2.9240259,
+      43.2567798
+    ]
+  },
+  {
+    "venue_id": "node/4378438300",
+    "osm_type": "node",
+    "osm_id": 4378438300,
+    "name": "Taberna Basaras",
+    "node": 5131390307,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9256809,
+      43.2571391
+    ],
+    "graph_point": [
+      -2.9257262,
+      43.2571636
+    ]
+  },
+  {
+    "venue_id": "node/4406048232",
+    "osm_type": "node",
+    "osm_id": 4406048232,
+    "name": "Café 91",
+    "node": 5055531356,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9243464,
+      43.2570208
+    ],
+    "graph_point": [
+      -2.9243687,
+      43.2570237
+    ]
+  },
+  {
+    "venue_id": "node/4502245836",
+    "osm_type": "node",
+    "osm_id": 4502245836,
+    "name": "Arambeer",
+    "node": 1839188269,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9246347,
+      43.2557195
+    ],
+    "graph_point": [
+      -2.9245872,
+      43.2558543
+    ]
+  },
+  {
+    "venue_id": "node/4634471358",
+    "osm_type": "node",
+    "osm_id": 4634471358,
+    "name": "Maite",
+    "node": 4634471371,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9202455,
+      43.25678
+    ],
+    "graph_point": [
+      -2.9201658,
+      43.2566889
+    ]
+  },
+  {
+    "venue_id": "node/4688243610",
+    "osm_type": "node",
+    "osm_id": 4688243610,
+    "name": "Sarkue",
+    "node": 1868013624,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9239809,
+      43.2561586
+    ],
+    "graph_point": [
+      -2.9238361,
+      43.2563777
+    ]
+  },
+  {
+    "venue_id": "node/4688291794",
+    "osm_type": "node",
+    "osm_id": 4688291794,
+    "name": "Negresco",
+    "node": 5091168442,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223191,
+      43.2591192
+    ],
+    "graph_point": [
+      -2.9223255,
+      43.2591716
+    ]
+  },
+  {
+    "venue_id": "node/4688363990",
+    "osm_type": "node",
+    "osm_id": 4688363990,
+    "name": "Gatz",
+    "node": 13075699955,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.926013,
+      43.2581666
+    ],
+    "graph_point": [
+      -2.9259451,
+      43.2581693
+    ]
+  },
+  {
+    "venue_id": "node/4701494365",
+    "osm_type": "node",
+    "osm_id": 4701494365,
+    "name": "San Nicolás",
+    "node": 1275770944,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9226582,
+      43.2607601
+    ],
+    "graph_point": [
+      -2.9227021,
+      43.2606094
+    ]
+  },
+  {
+    "venue_id": "node/4701494369",
+    "osm_type": "node",
+    "osm_id": 4701494369,
+    "name": "Café del Arenal",
+    "node": 310995245,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9230135,
+      43.2596886
+    ],
+    "graph_point": [
+      -2.9229152,
+      43.2596032
+    ]
+  },
+  {
+    "venue_id": "node/4701494370",
+    "osm_type": "node",
+    "osm_id": 4701494370,
+    "name": "Iraia",
+    "node": 10978904329,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9231637,
+      43.259715
+    ],
+    "graph_point": [
+      -2.9231873,
+      43.259749
+    ]
+  },
+  {
+    "venue_id": "node/4701494373",
+    "osm_type": "node",
+    "osm_id": 4701494373,
+    "name": "Nata",
+    "node": 4136231957,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9228485,
+      43.2598195
+    ],
+    "graph_point": [
+      -2.9228053,
+      43.2599237
+    ]
+  },
+  {
+    "venue_id": "node/4701570965",
+    "osm_type": "node",
+    "osm_id": 4701570965,
+    "name": "Arantza",
+    "node": 1244707971,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9233335,
+      43.2585846
+    ],
+    "graph_point": [
+      -2.9234636,
+      43.2585919
+    ]
+  },
+  {
+    "venue_id": "node/4701746330",
+    "osm_type": "node",
+    "osm_id": 4701746330,
+    "name": "Degustacion Aitke",
+    "node": 1275731479,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9230864,
+      43.2579094
+    ],
+    "graph_point": [
+      -2.9231173,
+      43.257889
+    ]
+  },
+  {
+    "venue_id": "node/4703361437",
+    "osm_type": "node",
+    "osm_id": 4703361437,
+    "name": "Gallo Negro",
+    "node": 5091619934,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9246885,
+      43.2578642
+    ],
+    "graph_point": [
+      -2.9246769,
+      43.2578016
+    ]
+  },
+  {
+    "venue_id": "node/4703361438",
+    "osm_type": "node",
+    "osm_id": 4703361438,
+    "name": "Terra Kafe",
+    "node": 1846136797,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9243518,
+      43.2578866
+    ],
+    "graph_point": [
+      -2.9243067,
+      43.2578361
+    ]
+  },
+  {
+    "venue_id": "node/4703361443",
+    "osm_type": "node",
+    "osm_id": 4703361443,
+    "name": "Berton Sasibil",
+    "node": 5091618860,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9249419,
+      43.2582187
+    ],
+    "graph_point": [
+      -2.924986,
+      43.2582475
+    ]
+  },
+  {
+    "venue_id": "node/4703389816",
+    "osm_type": "node",
+    "osm_id": 4703389816,
+    "name": "Bikiak",
+    "node": 1846136804,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9250251,
+      43.2583351
+    ],
+    "graph_point": [
+      -2.9250676,
+      43.2582825
+    ]
+  },
+  {
+    "venue_id": "node/4703669353",
+    "osm_type": "node",
+    "osm_id": 4703669353,
+    "name": "Arambarri Food and Roll",
+    "node": 10978904342,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9262269,
+      43.2574952
+    ],
+    "graph_point": [
+      -2.926295,
+      43.2574956
+    ]
+  },
+  {
+    "venue_id": "node/4703669360",
+    "osm_type": "node",
+    "osm_id": 4703669360,
+    "name": "Santamaría",
+    "node": 5094239282,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9255686,
+      43.2578031
+    ],
+    "graph_point": [
+      -2.925569,
+      43.2578259
+    ]
+  },
+  {
+    "venue_id": "node/4708005899",
+    "osm_type": "node",
+    "osm_id": 4708005899,
+    "name": "Bizitza",
+    "node": 4136231910,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9248956,
+      43.2575481
+    ],
+    "graph_point": [
+      -2.9249116,
+      43.2575143
+    ]
+  },
+  {
+    "venue_id": "node/4708061613",
+    "osm_type": "node",
+    "osm_id": 4708061613,
+    "name": "Gerri",
+    "node": 1275735093,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9229436,
+      43.2575318
+    ],
+    "graph_point": [
+      -2.9228515,
+      43.2575536
+    ]
+  },
+  {
+    "venue_id": "node/4708116872",
+    "osm_type": "node",
+    "osm_id": 4708116872,
+    "name": "Txomin Barullo",
+    "node": 5094404978,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9246137,
+      43.25738
+    ],
+    "graph_point": [
+      -2.9246325,
+      43.2574227
+    ]
+  },
+  {
+    "venue_id": "node/4708116873",
+    "osm_type": "node",
+    "osm_id": 4708116873,
+    "name": "Ormaetxe",
+    "node": 1845951954,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9248703,
+      43.2574586
+    ],
+    "graph_point": [
+      -2.9249044,
+      43.2574691
+    ]
+  },
+  {
+    "venue_id": "node/4708116874",
+    "osm_type": "node",
+    "osm_id": 4708116874,
+    "name": "Gure Txoko",
+    "node": 1845951946,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9247317,
+      43.2574095
+    ],
+    "graph_point": [
+      -2.9247335,
+      43.2573796
+    ]
+  },
+  {
+    "venue_id": "node/4708116875",
+    "osm_type": "node",
+    "osm_id": 4708116875,
+    "name": "Soiz",
+    "node": 1845951958,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9247016,
+      43.2574688
+    ],
+    "graph_point": [
+      -2.9246702,
+      43.2574838
+    ]
+  },
+  {
+    "venue_id": "node/4708209433",
+    "osm_type": "node",
+    "osm_id": 4708209433,
+    "name": "Portuberri Barria",
+    "node": 6573542520,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9207521,
+      43.2580978
+    ],
+    "graph_point": [
+      -2.920769,
+      43.2581243
+    ]
+  },
+  {
+    "venue_id": "node/4708209434",
+    "osm_type": "node",
+    "osm_id": 4708209434,
+    "name": "Naikari",
+    "node": 4708209459,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9206564,
+      43.2580995
+    ],
+    "graph_point": [
+      -2.920708,
+      43.2581535
+    ]
+  },
+  {
+    "venue_id": "node/4708209436",
+    "osm_type": "node",
+    "osm_id": 4708209436,
+    "name": "Iturri",
+    "node": 1933445080,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9205335,
+      43.2581002
+    ],
+    "graph_point": [
+      -2.9205739,
+      43.2581494
+    ]
+  },
+  {
+    "venue_id": "node/4708209438",
+    "osm_type": "node",
+    "osm_id": 4708209438,
+    "name": "Sunset Blvd & Strip",
+    "node": 1868013857,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9203394,
+      43.2580873
+    ],
+    "graph_point": [
+      -2.920339,
+      43.2581014
+    ]
+  },
+  {
+    "venue_id": "node/4708209444",
+    "osm_type": "node",
+    "osm_id": 4708209444,
+    "name": "Babylon",
+    "node": 3071499750,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9196005,
+      43.2579897
+    ],
+    "graph_point": [
+      -2.9194128,
+      43.2580266
+    ]
+  },
+  {
+    "venue_id": "node/4708209447",
+    "osm_type": "node",
+    "osm_id": 4708209447,
+    "name": "OSM node 4708209447",
+    "node": 4708209446,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9192382,
+      43.2579859
+    ],
+    "graph_point": [
+      -2.9192812,
+      43.2579931
+    ]
+  },
+  {
+    "venue_id": "node/4708209448",
+    "osm_type": "node",
+    "osm_id": 4708209448,
+    "name": "Bizkaigane",
+    "node": 1868013855,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9191041,
+      43.2580056
+    ],
+    "graph_point": [
+      -2.9191338,
+      43.2580289
+    ]
+  },
+  {
+    "venue_id": "node/4708209455",
+    "osm_type": "node",
+    "osm_id": 4708209455,
+    "name": "Zerua",
+    "node": 3071499750,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9193717,
+      43.2580302
+    ],
+    "graph_point": [
+      -2.9194128,
+      43.2580266
+    ]
+  },
+  {
+    "venue_id": "node/4708209456",
+    "osm_type": "node",
+    "osm_id": 4708209456,
+    "name": "Laraitu",
+    "node": 3071499750,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9196261,
+      43.2580893
+    ],
+    "graph_point": [
+      -2.9194128,
+      43.2580266
+    ]
+  },
+  {
+    "venue_id": "node/4708209457",
+    "osm_type": "node",
+    "osm_id": 4708209457,
+    "name": "Kepa",
+    "node": 1933445073,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9197123,
+      43.2581034
+    ],
+    "graph_point": [
+      -2.9199473,
+      43.2581035
+    ]
+  },
+  {
+    "venue_id": "node/4708209458",
+    "osm_type": "node",
+    "osm_id": 4708209458,
+    "name": "Melilla y Fez",
+    "node": 1933445073,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9198108,
+      43.2581184
+    ],
+    "graph_point": [
+      -2.9199473,
+      43.2581035
+    ]
+  },
+  {
+    "venue_id": "node/4708519024",
+    "osm_type": "node",
+    "osm_id": 4708519024,
+    "name": "La Gernikesa",
+    "node": 1868013570,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.922856,
+      43.2556056
+    ],
+    "graph_point": [
+      -2.922789,
+      43.2555834
+    ]
+  },
+  {
+    "venue_id": "node/4708519026",
+    "osm_type": "node",
+    "osm_id": 4708519026,
+    "name": "El Sitio",
+    "node": 1868013570,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.922812,
+      43.2557278
+    ],
+    "graph_point": [
+      -2.922789,
+      43.2555834
+    ]
+  },
+  {
+    "venue_id": "node/4708519046",
+    "osm_type": "node",
+    "osm_id": 4708519046,
+    "name": "Topa",
+    "node": 1845951945,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9224055,
+      43.2574242
+    ],
+    "graph_point": [
+      -2.9224242,
+      43.2573902
+    ]
+  },
+  {
+    "venue_id": "node/4708519051",
+    "osm_type": "node",
+    "osm_id": 4708519051,
+    "name": "Txalaparta",
+    "node": 1845951927,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223555,
+      43.2571153
+    ],
+    "graph_point": [
+      -2.9223975,
+      43.2571352
+    ]
+  },
+  {
+    "venue_id": "node/4708519053",
+    "osm_type": "node",
+    "osm_id": 4708519053,
+    "name": "Gure Etxea",
+    "node": 1845951903,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9224136,
+      43.2569872
+    ],
+    "graph_point": [
+      -2.9224423,
+      43.2570398
+    ]
+  },
+  {
+    "venue_id": "node/4708519060",
+    "osm_type": "node",
+    "osm_id": 4708519060,
+    "name": "La Sede",
+    "node": 13710909257,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9226968,
+      43.2564376
+    ],
+    "graph_point": [
+      -2.9227971,
+      43.2564787
+    ]
+  },
+  {
+    "venue_id": "node/4709757485",
+    "osm_type": "node",
+    "osm_id": 4709757485,
+    "name": "Soka",
+    "node": 13711147611,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9224559,
+      43.2572462
+    ],
+    "graph_point": [
+      -2.922434,
+      43.2572449
+    ]
+  },
+  {
+    "venue_id": "node/4709794442",
+    "osm_type": "node",
+    "osm_id": 4709794442,
+    "name": "Motrikes",
+    "node": 13711147612,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9224651,
+      43.2571929
+    ],
+    "graph_point": [
+      -2.9224643,
+      43.2571485
+    ]
+  },
+  {
+    "venue_id": "node/4709794459",
+    "osm_type": "node",
+    "osm_id": 4709794459,
+    "name": "Veggira Taberna",
+    "node": 13711130848,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9231715,
+      43.2558592
+    ],
+    "graph_point": [
+      -2.9231431,
+      43.2558327
+    ]
+  },
+  {
+    "venue_id": "node/4709799648",
+    "osm_type": "node",
+    "osm_id": 4709799648,
+    "name": "Kafic",
+    "node": 1868013572,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9238068,
+      43.2556813
+    ],
+    "graph_point": [
+      -2.923776,
+      43.2556254
+    ]
+  },
+  {
+    "venue_id": "node/4710001844",
+    "osm_type": "node",
+    "osm_id": 4710001844,
+    "name": "Emeki",
+    "node": 1868013680,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9235237,
+      43.2567065
+    ],
+    "graph_point": [
+      -2.9235238,
+      43.2568046
+    ]
+  },
+  {
+    "venue_id": "node/4710001851",
+    "osm_type": "node",
+    "osm_id": 4710001851,
+    "name": "Larralde",
+    "node": 4136231902,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9230733,
+      43.2572048
+    ],
+    "graph_point": [
+      -2.9232061,
+      43.2571399
+    ]
+  },
+  {
+    "venue_id": "node/4710102003",
+    "osm_type": "node",
+    "osm_id": 4710102003,
+    "name": "Arriola",
+    "node": 13711587895,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9240164,
+      43.2566866
+    ],
+    "graph_point": [
+      -2.9240586,
+      43.2567269
+    ]
+  },
+  {
+    "venue_id": "node/4710102014",
+    "osm_type": "node",
+    "osm_id": 4710102014,
+    "name": "Retolaza",
+    "node": 11115033990,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9241546,
+      43.255855
+    ],
+    "graph_point": [
+      -2.9241828,
+      43.2557829
+    ]
+  },
+  {
+    "venue_id": "node/4710124725",
+    "osm_type": "node",
+    "osm_id": 4710124725,
+    "name": "Mitote",
+    "node": 1845951873,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9243686,
+      43.2564127
+    ],
+    "graph_point": [
+      -2.9242514,
+      43.2565219
+    ]
+  },
+  {
+    "venue_id": "node/4711946169",
+    "osm_type": "node",
+    "osm_id": 4711946169,
+    "name": "Musua",
+    "node": 5094306826,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9241977,
+      43.257073
+    ],
+    "graph_point": [
+      -2.924156,
+      43.2570739
+    ]
+  },
+  {
+    "venue_id": "node/4711946182",
+    "osm_type": "node",
+    "osm_id": 4711946182,
+    "name": "Palacio Arana",
+    "node": 10978904392,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9247754,
+      43.2560622
+    ],
+    "graph_point": [
+      -2.9249127,
+      43.2560796
+    ]
+  },
+  {
+    "venue_id": "node/4711962385",
+    "osm_type": "node",
+    "osm_id": 4711962385,
+    "name": "Manolita la Primera",
+    "node": 1845951867,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9251478,
+      43.2564653
+    ],
+    "graph_point": [
+      -2.9252565,
+      43.2563723
+    ]
+  },
+  {
+    "venue_id": "node/4711962387",
+    "osm_type": "node",
+    "osm_id": 4711962387,
+    "name": "Hell's Bells",
+    "node": 1845951888,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9250894,
+      43.2565775
+    ],
+    "graph_point": [
+      -2.9250101,
+      43.2567945
+    ]
+  },
+  {
+    "venue_id": "node/4711962388",
+    "osm_type": "node",
+    "osm_id": 4711962388,
+    "name": "Modesto",
+    "node": 1845951888,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9250596,
+      43.2566986
+    ],
+    "graph_point": [
+      -2.9250101,
+      43.2567945
+    ]
+  },
+  {
+    "venue_id": "node/4711965389",
+    "osm_type": "node",
+    "osm_id": 4711965389,
+    "name": "Ander",
+    "node": 1845951888,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9250054,
+      43.2567467
+    ],
+    "graph_point": [
+      -2.9250101,
+      43.2567945
+    ]
+  },
+  {
+    "venue_id": "node/4711965391",
+    "osm_type": "node",
+    "osm_id": 4711965391,
+    "name": "Luciano Berri",
+    "node": 1846136790,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9247339,
+      43.2572377
+    ],
+    "graph_point": [
+      -2.9246876,
+      43.2573329
+    ]
+  },
+  {
+    "venue_id": "node/4713089495",
+    "osm_type": "node",
+    "osm_id": 4713089495,
+    "name": "Hara!",
+    "node": 1845951881,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9247088,
+      43.2566419
+    ],
+    "graph_point": [
+      -2.924652,
+      43.2566681
+    ]
+  },
+  {
+    "venue_id": "node/4713230559",
+    "osm_type": "node",
+    "osm_id": 4713230559,
+    "name": "Zipo",
+    "node": 1845951870,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9252216,
+      43.2565929
+    ],
+    "graph_point": [
+      -2.9253128,
+      43.2564046
+    ]
+  },
+  {
+    "venue_id": "node/4713230560",
+    "osm_type": "node",
+    "osm_id": 4713230560,
+    "name": "Glotón Vice",
+    "node": 1845951891,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9252045,
+      43.256621
+    ],
+    "graph_point": [
+      -2.9250739,
+      43.2568157
+    ]
+  },
+  {
+    "venue_id": "node/4713230561",
+    "osm_type": "node",
+    "osm_id": 4713230561,
+    "name": "Baila!",
+    "node": 1845951891,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9252023,
+      43.2566663
+    ],
+    "graph_point": [
+      -2.9250739,
+      43.2568157
+    ]
+  },
+  {
+    "venue_id": "node/4713230563",
+    "osm_type": "node",
+    "osm_id": 4713230563,
+    "name": "Paquita la de Barrenka",
+    "node": 1845951893,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9250776,
+      43.2568754
+    ],
+    "graph_point": [
+      -2.9250618,
+      43.2568357
+    ]
+  },
+  {
+    "venue_id": "node/4713230564",
+    "osm_type": "node",
+    "osm_id": 4713230564,
+    "name": "Beltza",
+    "node": 1846136790,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.924769,
+      43.2571717
+    ],
+    "graph_point": [
+      -2.9246876,
+      43.2573329
+    ]
+  },
+  {
+    "venue_id": "node/4713230565",
+    "osm_type": "node",
+    "osm_id": 4713230565,
+    "name": "ZureBar",
+    "node": 1845951893,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9249997,
+      43.2570286
+    ],
+    "graph_point": [
+      -2.9250618,
+      43.2568357
+    ]
+  },
+  {
+    "venue_id": "node/4713230566",
+    "osm_type": "node",
+    "osm_id": 4713230566,
+    "name": "Santuario",
+    "node": 1845951893,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9249652,
+      43.2570749
+    ],
+    "graph_point": [
+      -2.9250618,
+      43.2568357
+    ]
+  },
+  {
+    "venue_id": "node/4713230567",
+    "osm_type": "node",
+    "osm_id": 4713230567,
+    "name": "Pepe por Dios",
+    "node": 6267426918,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9249395,
+      43.2571193
+    ],
+    "graph_point": [
+      -2.9249283,
+      43.2574158
+    ]
+  },
+  {
+    "venue_id": "node/4713230568",
+    "osm_type": "node",
+    "osm_id": 4713230568,
+    "name": "Ander Etxea",
+    "node": 1845951941,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9248955,
+      43.2571765
+    ],
+    "graph_point": [
+      -2.9247475,
+      43.2573549
+    ]
+  },
+  {
+    "venue_id": "node/4713230569",
+    "osm_type": "node",
+    "osm_id": 4713230569,
+    "name": "Skulls",
+    "node": 1845951941,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9248643,
+      43.25723
+    ],
+    "graph_point": [
+      -2.9247475,
+      43.2573549
+    ]
+  },
+  {
+    "venue_id": "node/4713230570",
+    "osm_type": "node",
+    "osm_id": 4713230570,
+    "name": "Epelde",
+    "node": 1845951941,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9248289,
+      43.257282
+    ],
+    "graph_point": [
+      -2.9247475,
+      43.2573549
+    ]
+  },
+  {
+    "venue_id": "node/4713230572",
+    "osm_type": "node",
+    "osm_id": 4713230572,
+    "name": "Zulo",
+    "node": 6267426918,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9249208,
+      43.2573867
+    ],
+    "graph_point": [
+      -2.9249283,
+      43.2574158
+    ]
+  },
+  {
+    "venue_id": "node/4713230573",
+    "osm_type": "node",
+    "osm_id": 4713230573,
+    "name": "Zazpi Bide Taberna",
+    "node": 6267426918,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.925004,
+      43.2574141
+    ],
+    "graph_point": [
+      -2.9249283,
+      43.2574158
+    ]
+  },
+  {
+    "venue_id": "node/4713360371",
+    "osm_type": "node",
+    "osm_id": 4713360371,
+    "name": "Lamiak",
+    "node": 5131390305,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9255218,
+      43.2573941
+    ],
+    "graph_point": [
+      -2.9255547,
+      43.257421
+    ]
+  },
+  {
+    "venue_id": "node/4738054188",
+    "osm_type": "node",
+    "osm_id": 4738054188,
+    "name": "El Laterío",
+    "node": 662840824,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9260446,
+      43.2555151
+    ],
+    "graph_point": [
+      -2.9259664,
+      43.2557296
+    ]
+  },
+  {
+    "venue_id": "node/5055529919",
+    "osm_type": "node",
+    "osm_id": 5055529919,
+    "name": "Barista's club",
+    "node": 1275734967,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9233628,
+      43.2569054
+    ],
+    "graph_point": [
+      -2.9234004,
+      43.2569617
+    ]
+  },
+  {
+    "venue_id": "node/5055531282",
+    "osm_type": "node",
+    "osm_id": 5055531282,
+    "name": "La Muga",
+    "node": 13395427712,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9215401,
+      43.2579448
+    ],
+    "graph_point": [
+      -2.92151,
+      43.2579995
+    ]
+  },
+  {
+    "venue_id": "node/5055531767",
+    "osm_type": "node",
+    "osm_id": 5055531767,
+    "name": "La Ley Seca",
+    "node": 14087591697,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9253828,
+      43.2569786
+    ],
+    "graph_point": [
+      -2.9254166,
+      43.2569511
+    ]
+  },
+  {
+    "venue_id": "node/5204339221",
+    "osm_type": "node",
+    "osm_id": 5204339221,
+    "name": "Ahoan",
+    "node": 5091168442,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223047,
+      43.2591876
+    ],
+    "graph_point": [
+      -2.9223255,
+      43.2591716
+    ]
+  },
+  {
+    "venue_id": "node/5493980622",
+    "osm_type": "node",
+    "osm_id": 5493980622,
+    "name": "Bodega Joserra",
+    "node": 1275734967,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9232635,
+      43.2569251
+    ],
+    "graph_point": [
+      -2.9234004,
+      43.2569617
+    ]
+  },
+  {
+    "venue_id": "node/5643839509",
+    "osm_type": "node",
+    "osm_id": 5643839509,
+    "name": "Bihotz",
+    "node": 13236292146,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9263478,
+      43.255432
+    ],
+    "graph_point": [
+      -2.926395,
+      43.25526
+    ]
+  },
+  {
+    "venue_id": "node/5790301053",
+    "osm_type": "node",
+    "osm_id": 5790301053,
+    "name": "Errondabide",
+    "node": 1868013646,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9222107,
+      43.2567494
+    ],
+    "graph_point": [
+      -2.9222778,
+      43.256637
+    ]
+  },
+  {
+    "venue_id": "node/6586238085",
+    "osm_type": "node",
+    "osm_id": 6586238085,
+    "name": "Sua Pintxoak",
+    "node": 5131390303,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9253276,
+      43.2573037
+    ],
+    "graph_point": [
+      -2.9252913,
+      43.2573053
+    ]
+  },
+  {
+    "venue_id": "node/10895947679",
+    "osm_type": "node",
+    "osm_id": 10895947679,
+    "name": "Gorde",
+    "node": 5091619937,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9253982,
+      43.2581409
+    ],
+    "graph_point": [
+      -2.9254665,
+      43.2581411
+    ]
+  },
+  {
+    "venue_id": "node/10895986329",
+    "osm_type": "node",
+    "osm_id": 10895986329,
+    "name": "Taska Beltz",
+    "node": 5131390294,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9256897,
+      43.2571755
+    ],
+    "graph_point": [
+      -2.9257042,
+      43.2571965
+    ]
+  },
+  {
+    "venue_id": "node/10896547588",
+    "osm_type": "node",
+    "osm_id": 10896547588,
+    "name": "Adaxa Kultur Elkartea",
+    "node": 1845951939,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223539,
+      43.2573678
+    ],
+    "graph_point": [
+      -2.9223919,
+      43.2573333
+    ]
+  },
+  {
+    "venue_id": "node/11109577305",
+    "osm_type": "node",
+    "osm_id": 11109577305,
+    "name": "OSM node 11109577305",
+    "node": 275858820,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9267936,
+      43.2552815
+    ],
+    "graph_point": [
+      -2.9268338,
+      43.2553644
+    ]
+  },
+  {
+    "venue_id": "node/11117303606",
+    "osm_type": "node",
+    "osm_id": 11117303606,
+    "name": "Muelle 16",
+    "node": 3541851765,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9257947,
+      43.2557728
+    ],
+    "graph_point": [
+      -2.925899,
+      43.2559107
+    ]
+  },
+  {
+    "venue_id": "node/11118554446",
+    "osm_type": "node",
+    "osm_id": 11118554446,
+    "name": "Bidaide",
+    "node": 13710909261,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9227772,
+      43.2565443
+    ],
+    "graph_point": [
+      -2.9227634,
+      43.2565426
+    ]
+  },
+  {
+    "venue_id": "node/11188237794",
+    "osm_type": "node",
+    "osm_id": 11188237794,
+    "name": "Bohemian Lane",
+    "node": 11115033993,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9248738,
+      43.2563934
+    ],
+    "graph_point": [
+      -2.9249299,
+      43.256232
+    ]
+  },
+  {
+    "venue_id": "node/11965767169",
+    "osm_type": "node",
+    "osm_id": 11965767169,
+    "name": "The Craft Tabeerna",
+    "node": 5094306876,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9247606,
+      43.2577336
+    ],
+    "graph_point": [
+      -2.9247222,
+      43.2577498
+    ]
+  },
+  {
+    "venue_id": "node/12045680029",
+    "osm_type": "node",
+    "osm_id": 12045680029,
+    "name": "Bira Kultur gunea",
+    "node": 4136231932,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9225949,
+      43.2559193
+    ],
+    "graph_point": [
+      -2.9226288,
+      43.2559033
+    ]
+  },
+  {
+    "venue_id": "node/12297724408",
+    "osm_type": "node",
+    "osm_id": 12297724408,
+    "name": "Bar & Pintxos Bizjette",
+    "node": 1845951947,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9242346,
+      43.2574054
+    ],
+    "graph_point": [
+      -2.9242083,
+      43.2574095
+    ]
+  },
+  {
+    "venue_id": "node/12462860842",
+    "osm_type": "node",
+    "osm_id": 12462860842,
+    "name": "Con B de Bilbao",
+    "node": 5091618885,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9259376,
+      43.2582984
+    ],
+    "graph_point": [
+      -2.9259252,
+      43.2582669
+    ]
+  },
+  {
+    "venue_id": "node/12600247646",
+    "osm_type": "node",
+    "osm_id": 12600247646,
+    "name": "Pavoneo",
+    "node": 1845951893,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9250252,
+      43.25696
+    ],
+    "graph_point": [
+      -2.9250618,
+      43.2568357
+    ]
+  },
+  {
+    "venue_id": "node/13075695553",
+    "osm_type": "node",
+    "osm_id": 13075695553,
+    "name": "Dynamus",
+    "node": 2022246402,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9259628,
+      43.2580292
+    ],
+    "graph_point": [
+      -2.9258826,
+      43.2581112
+    ]
+  },
+  {
+    "venue_id": "node/13075717133",
+    "osm_type": "node",
+    "osm_id": 13075717133,
+    "name": "107. Soiz",
+    "node": 1846136790,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9246762,
+      43.2572856
+    ],
+    "graph_point": [
+      -2.9246876,
+      43.2573329
+    ]
+  },
+  {
+    "venue_id": "node/13077850041",
+    "osm_type": "node",
+    "osm_id": 13077850041,
+    "name": "Luzgas",
+    "node": 5131390297,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9256744,
+      43.2572215
+    ],
+    "graph_point": [
+      -2.9256644,
+      43.2572563
+    ]
+  },
+  {
+    "venue_id": "node/13077898891",
+    "osm_type": "node",
+    "osm_id": 13077898891,
+    "name": "Consorcio",
+    "node": 5131390293,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9253446,
+      43.2570519
+    ],
+    "graph_point": [
+      -2.925428,
+      43.2570779
+    ]
+  },
+  {
+    "venue_id": "node/13077920608",
+    "osm_type": "node",
+    "osm_id": 13077920608,
+    "name": "El Cuji",
+    "node": 1845951888,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9250617,
+      43.2566679
+    ],
+    "graph_point": [
+      -2.9250101,
+      43.2567945
+    ]
+  },
+  {
+    "venue_id": "node/13077940970",
+    "osm_type": "node",
+    "osm_id": 13077940970,
+    "name": "KD",
+    "node": 1845951893,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9249952,
+      43.2569858
+    ],
+    "graph_point": [
+      -2.9250618,
+      43.2568357
+    ]
+  },
+  {
+    "venue_id": "node/13078261056",
+    "osm_type": "node",
+    "osm_id": 13078261056,
+    "name": "plaza",
+    "node": 1736371576,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9213387,
+      43.2585649
+    ],
+    "graph_point": [
+      -2.9212591,
+      43.2585132
+    ]
+  },
+  {
+    "venue_id": "node/13081505164",
+    "osm_type": "node",
+    "osm_id": 13081505164,
+    "name": "La Catedral de la Cerveza",
+    "node": 5055531356,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9244545,
+      43.25707
+    ],
+    "graph_point": [
+      -2.9243687,
+      43.2570237
+    ]
+  },
+  {
+    "venue_id": "node/13084165627",
+    "osm_type": "node",
+    "osm_id": 13084165627,
+    "name": "Okapi",
+    "node": 13711587892,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9239636,
+      43.2568226
+    ],
+    "graph_point": [
+      -2.9240259,
+      43.2567798
+    ]
+  },
+  {
+    "venue_id": "node/13094010713",
+    "osm_type": "node",
+    "osm_id": 13094010713,
+    "name": "Somera",
+    "node": 13711130846,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9231054,
+      43.2557359
+    ],
+    "graph_point": [
+      -2.9232035,
+      43.255721
+    ]
+  },
+  {
+    "venue_id": "node/13094056972",
+    "osm_type": "node",
+    "osm_id": 13094056972,
+    "name": "La Revenge",
+    "node": 1845951927,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9223675,
+      43.2570983
+    ],
+    "graph_point": [
+      -2.9223975,
+      43.2571352
+    ]
+  },
+  {
+    "venue_id": "node/13094076746",
+    "osm_type": "node",
+    "osm_id": 13094076746,
+    "name": "Nkn",
+    "node": 13711147611,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9224531,
+      43.2572153
+    ],
+    "graph_point": [
+      -2.922434,
+      43.2572449
+    ]
+  },
+  {
+    "venue_id": "node/13094128993",
+    "osm_type": "node",
+    "osm_id": 13094128993,
+    "name": "Zazpi Kale",
+    "node": 5094306822,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9224121,
+      43.2562566
+    ],
+    "graph_point": [
+      -2.9224101,
+      43.2563342
+    ]
+  },
+  {
+    "venue_id": "node/13250610370",
+    "osm_type": "node",
+    "osm_id": 13250610370,
+    "name": "KL (Kaixo & Laukiniz)",
+    "node": 1845951941,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9248308,
+      43.2570805
+    ],
+    "graph_point": [
+      -2.9247475,
+      43.2573549
+    ]
+  },
+  {
+    "venue_id": "node/13694829801",
+    "osm_type": "node",
+    "osm_id": 13694829801,
+    "name": "Manolo Bakes",
+    "node": 4133900685,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9233406,
+      43.2584918
+    ],
+    "graph_point": [
+      -2.9234622,
+      43.2585383
+    ]
+  },
+  {
+    "venue_id": "way/496205893",
+    "osm_type": "way",
+    "osm_id": 496205893,
+    "name": "La Parada de Bilbao",
+    "node": 13773977382,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9276474,
+      43.2607759
+    ],
+    "graph_point": [
+      -2.9276431,
+      43.2606903
+    ]
+  },
+  {
+    "venue_id": "way/968104583",
+    "osm_type": "way",
+    "osm_id": 968104583,
+    "name": "CaFeve",
+    "node": 1263706275,
+    "access_method": "nearest_graph_node_from_osm_center",
+    "source_point": [
+      -2.9260757,
+      43.2602925
+    ],
+    "graph_point": [
+      -2.9262196,
+      43.260326
+    ]
+  }
+]

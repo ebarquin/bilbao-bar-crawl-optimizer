@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-11-11T15:03:49.690284+00:00",
+  "config": {
+    "scenario": "open_fixed_start_free_end",
+    "start": {
+      "id": "plaza-nueva",
+      "name": "Plaza Nueva",
+      "coordinates": [
+        -2.9237,
+        43.2577
+      ]
+    },
+    "end": null,
+    "walking_speed_kmh": 4.5,
+    "stop_duration_min": 15,
+    "daily_duration_min": 360,
+    "random_seeds": [
+      7,
+      19,
+      42,
+      73,
+      101,
+      137,
+      211,
+      307,
+      401,
+      509
+    ]
+  },
+  "simulations": [
+    {
+      "algorithm": "nearest_neighbor",
+      "seed": null,
+      "scenario": "open_fixed_start_free_end",
+      "start": "Plaza Nueva",
+      "end": "free",
+      "venue_count": 159,
+      "distance_m": 9759.23,
+      "walking_time_min": 130.12,
+      "stop_duration_min_per_venue": 15.0,
+      "stop_time_min": 2385.0,
+      "total_duration_min": 2515.12,
+      "estimated_days": 7,
+      "daily_duration_min": 360.0,
+      "parameters_are_estimates": true
+    },
+    {
+      "algorithm": "nearest_neighbor_multi_start",
+      "seed": null,
+      "scenario": "open_fixed_start_free_end",
+      "start": "Plaza Nueva",
+      "end": "free",
+      "venue_count": 159,
+      "distance_m": 9204.58,
+      "walking_time_min": 122.73,
+      "stop_duration_min_per_venue": 15.0,
+      "stop_time_min": 2385.0,
+      "total_duration_min": 2507.73,
+      "estimated_days": 7,
+      "daily_duration_min": 360.0,
+      "parameters_are_estimates": true
+    },
+    {
+      "algorithm": "or_tools",
+      "seed": null,
+      "scenario": "open_fixed_start_free_end",
+      "start": "Plaza Nueva",
+      "end": "free",
+      "venue_count": 159,
+      "distance_m": 7884.89,
+      "walking_time_min": 105.13,
+      "stop_duration_min_per_venue": 15.0,
+      "stop_time_min": 2385.0,
+      "total_duration_min": 2490.13,
+      "estimated_days": 7,
+      "daily_duration_min": 360.0,
+      "parameters_are_estimates": true
+    },
+    {
+      "algorithm": "random",
+      "seed": 211,
+      "scenario": "open_fixed_start_free_end",
+      "start": "Plaza Nueva",
+      "end": "free",
+      "venue_count": 159,
+      "distance_m": 54110.95,
+      "walking_time_min": 721.48,
+      "stop_duration_min_per_venue": 15.0,
+      "stop_time_min": 2385.0,
+      "total_duration_min": 3106.48,
+      "estimated_days": 9,
+      "daily_duration_min": 360.0,
+      "parameters_are_estimates": true
+    },
+    {
+      "algorithm": "two_opt",
+      "seed": null,
+      "scenario": "open_fixed_start_free_end",
+      "start": "Plaza Nueva",
+      "end": "free",
+      "venue_count": 159,
+      "distance_m": 8123.68,
+      "walking_time_min": 108.32,
+      "stop_duration_min_per_venue": 15.0,
+      "stop_time_min": 2385.0,
+      "total_duration_min": 2493.32,
+      "estimated_days": 7,
+      "daily_duration_min": 360.0,
+      "parameters_are_estimates": true
+    }
+  ],
+  "limitations": [
+    "Stop duration is a configurable assumption, not an observed measurement.",
+    "Walking time uses a constant configurable speed and excludes opening hours or waiting time.",
+    "The route geometries come from the cached pedestrian graph and matrix."
+  ]
+}
