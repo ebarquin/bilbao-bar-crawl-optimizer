@@ -1,5 +1,6 @@
 const map = L.map('map', {
   zoomControl: false,
+  zoomSnap: 0.25,
   dragging: false,
   scrollWheelZoom: false,
   doubleClickZoom: false,
@@ -34,6 +35,7 @@ const simulationsUrl = '../data/processed/optimization-simulations.json';
 const optimizationRoutesUrl = '../data/processed/optimization-routes.geojson';
 const algorithmColors = { random: '#9b9a91', nearest_neighbor: '#e96b45', nearest_neighbor_multi_start: '#4d7a9a', two_opt: '#9b6f52', or_tools: '#2c6e49' };
 const algorithmNames = { random: 'Aleatorio', nearest_neighbor: 'Nearest Neighbor', nearest_neighbor_multi_start: 'Nearest Neighbor multi-start', two_opt: '2-opt', or_tools: 'OR-Tools' };
+const categoryColors = { bar: '#FF5A43', cafetería: '#00B8A9', pub: '#F5B82E' };
 const algorithmDescriptions = {
   random: 'Orden aleatorio usado como referencia. No intenta optimizar la ruta.',
   nearest_neighbor: 'Desde el punto inicial, visita siempre el establecimiento no visitado más cercano.',
@@ -128,12 +130,15 @@ function prepareAnimation(algorithm) {
 
 Promise.all([fetch(areaUrl).then(response => response.json()), fetch(venuesUrl).then(response => response.json()), fetch(reportUrl).then(response => response.json()), fetch(networkReportUrl).then(response => response.json()), fetch(accessUrl).then(response => response.json()), fetch(simulationsUrl).then(response => response.json()), fetch(optimizationRoutesUrl).then(response => response.json())]).then(([area, venues, report, networkReport, access, simulations, optimizationRoutes]) => {
   areaLayer = L.geoJSON(area, { style: { color: '#20211f', weight: 2, dashArray: '6 6', fillColor: '#e96b45', fillOpacity: .10 } }).addTo(map);
-  map.fitBounds(areaLayer.getBounds(), { padding: [20, 20] });
+  map.invalidateSize({ pan: false });
+  const studyBounds = areaLayer.getBounds();
+  map.fitBounds(studyBounds, { padding: [0, 0], maxZoom: 16.5 });
+  map.setView(studyBounds.getCenter(), 16.5, { animate: false });
   const counts = {};
   const accessByVenue = Object.fromEntries(access.map(item => [item.venue_id, item]));
-  L.geoJSON(venues, { pointToLayer: (feature, latlng) => { const streetPoint = accessByVenue[feature.id]?.street_point; const displayLatLng = streetPoint ? [streetPoint[1], streetPoint[0]] : latlng; return L.marker(displayLatLng, { icon: L.divIcon({ className: 'venue-marker', iconSize: [12, 12] }) }); }, onEachFeature: (feature, layer) => { const category = feature.properties.category; counts[category] = (counts[category] || 0) + 1; layer.bindTooltip(feature.properties.name, { direction: 'top', offset: [0, -8] }); } }).addTo(map);
+  L.geoJSON(venues, { pointToLayer: (feature, latlng) => { const streetPoint = accessByVenue[feature.id]?.street_point; const displayLatLng = streetPoint ? [streetPoint[1], streetPoint[0]] : latlng; const category = feature.properties.category; const markerColor = categoryColors[category] || '#B8E5DE'; return L.marker(displayLatLng, { icon: L.divIcon({ className: 'venue-marker', html: `<span style="background:${markerColor}"></span>`, iconSize: [14, 14], iconAnchor: [7, 7] }) }); }, onEachFeature: (feature, layer) => { const category = feature.properties.category; counts[category] = (counts[category] || 0) + 1; layer.bindTooltip(feature.properties.name, { direction: 'top', offset: [0, -8] }); } }).addTo(map);
   count.textContent = report.exported_features;
-  categoryList.innerHTML = Object.entries(counts).sort().map(([name, value]) => `<div class="category-item"><span>${escapeHtml(name)}</span><strong>${value}</strong></div>`).join('');
+  categoryList.innerHTML = Object.entries(counts).sort().map(([name, value]) => `<div class="category-item"><span class="category-name"><i class="category-color" style="background:${categoryColors[name] || '#B8E5DE'}"></i>${escapeHtml(name)}</span><strong>${value}</strong></div>`).join('');
   qualityList.innerHTML = [['Elementos consultados', report.total_elements], ['Establecimientos usados', report.exported_features], ['Candidatos a duplicado', report.duplicate_candidates.length], ['Finalidad', 'experimental']].map(([name, value]) => `<div class="quality-item"><span>${escapeHtml(name)}</span><strong>${escapeHtml(value)}</strong></div>`).join('');
   const routeColors = ['#e96b45', '#4d7a9a', '#9b6f52'];
   networkList.innerHTML = [['Nodos', networkReport.nodes], ['Aristas', networkReport.edges], ['Componentes débiles', networkReport.weakly_connected_components], ['Fuera del principal', networkReport.venues_outside_largest_weak_component.length]].map(([name, value]) => `<div class="quality-item"><span>${escapeHtml(name)}</span><strong>${escapeHtml(value)}</strong></div>`).join('');

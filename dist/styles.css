@@ -47,6 +47,8 @@ h1 em { color: #ff9a77; font-family: Georgia, serif; font-weight: 400; letter-sp
 .category-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 7px; margin-top: 13px; }
 .category-item { display: flex; flex-direction: column; justify-content: space-between; min-height: 70px; padding: 10px; border: 1px solid var(--line); border-radius: 9px; background: var(--soft); }
 .category-item span:first-child { color: #647078; font-size: 10px; }
+.category-name { display: flex; align-items: center; gap: 7px; }
+.category-color { display: inline-block; width: 9px; height: 9px; border: 1px solid rgba(255,255,255,.9); border-radius: 50%; box-shadow: 0 0 0 1px rgba(24,37,43,.16); }
 .category-item strong { color: var(--ink); font-size: 24px; line-height: 1; letter-spacing: -.06em; font-variant-numeric: tabular-nums; }
 .quality-list { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-top: 13px; }
 #simulation-list { grid-template-columns: 1fr; }
@@ -107,7 +109,8 @@ h1 em { color: #ff9a77; font-family: Georgia, serif; font-weight: 400; letter-sp
 .map-legend { position: absolute; z-index: 500; left: 16px; top: 58px; padding: 10px 12px; border: 1px solid rgba(255,255,255,.65); border-radius: 8px; background: rgba(255,253,249,.94); color: #526069; box-shadow: 0 5px 18px rgba(0,0,0,.1); font-size: 10px; }
 .legend-dot { display: inline-block; width: 8px; height: 8px; margin-right: 5px; border: 1px solid white; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 .legend-line { display: inline-block; width: 20px; margin: 0 5px 3px 12px; border-top: 2px dashed var(--ink); }
-.venue-marker { width: 12px !important; height: 12px !important; border: 2px solid white; border-radius: 50%; background: var(--accent); box-shadow: 0 1px 5px rgba(0,0,0,.35); }
+.venue-marker { display: grid; place-items: center; width: 14px !important; height: 14px !important; border: 0; border-radius: 50%; background: transparent; box-shadow: none; }
+.venue-marker span { display: block; width: 11px; height: 11px; border: 2px solid white; border-radius: 50%; box-shadow: 0 1px 5px rgba(0,0,0,.35); }
 .route-line { opacity: .82; }
 .leaflet-control-zoom a, .leaflet-bar a { color: var(--ink) !important; }
 @media (max-width: 1000px) { .intro { grid-template-columns: auto 1fr; } .intro .eyebrow { grid-column: 2; } h1 { grid-column: 2; } .lede { grid-column: 2; } .status-row { grid-column: 2; } }
