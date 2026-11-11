@@ -43,6 +43,18 @@ Escenario: recorrido abierto, salida fija desde Plaza Nueva y final libre.
 
 \* Incluye 157 paradas × 15 minutos. ** Mejora frente a la media de las ejecuciones aleatorias.
 
+## Vídeo para LinkedIn
+
+La demostración también está preparada como vídeo vertical de 20 segundos. Haz clic en la portada para abrir el MP4:
+
+<p align="center">
+  <a href="media/bilbao-bar-crawl-linkedin.mp4">
+    <img src="media/bilbao-bar-crawl-linkedin-poster.jpg" width="360" alt="Vista previa del vídeo de la ruta OR-Tools" />
+  </a>
+</p>
+
+El vídeo utiliza la ruta OR-Tools precalculada, la red peatonal real y los mismos resultados que la aplicación.
+
 ## Datos y modelo
 
 - **157 establecimientos**: 105 pubs, 36 cafeterías y 16 bares según la extracción activa.
